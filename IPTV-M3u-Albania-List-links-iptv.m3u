@@ -1,0 +1,2711 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="RTK1" tvg-link="" tvg-name="RTK1" tvg-logo="" group-title="Gjenerale",RTK1
+http://cms3.fastiptv.org:80/live?channelId=2&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="RTK2" tvg-link="" tvg-name="RTK2" tvg-logo="" group-title="Gjenerale",RTK2
+http://cms3.fastiptv.org:80/live?channelId=3&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="RTK3" tvg-link="" tvg-name="RTK3" tvg-logo="" group-title="Gjenerale",RTK3
+http://cms3.fastiptv.org:80/live?channelId=4&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="RTK4" tvg-link="" tvg-name="RTK4" tvg-logo="" group-title="Gjenerale",RTK4
+http://cms3.fastiptv.org:80/live?channelId=5&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="KTV" tvg-link="" tvg-name="KTV" tvg-logo="" group-title="Gjenerale",KTV
+http://cms3.fastiptv.org:80/live?channelId=7&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="RTV21" tvg-link="" tvg-name="RTV21" tvg-logo="" group-title="Gjenerale",RTV21
+http://cms3.fastiptv.org:80/live?channelId=6&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="KlanKosova" tvg-link="" tvg-name="KlanKosova" tvg-logo="" group-title="Gjenerale",KlanKosova
+http://cms3.fastiptv.org:80/live?channelId=10&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="KlanTv" tvg-link="" tvg-name="KlanTv" tvg-logo="" group-title="Gjenerale",KlanTv - 239.15.15.2:1234
+http://cms3.fastiptv.org:80/live?channelId=11&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="VisionPlus" tvg-link="" tvg-name="VisionPlus" tvg-logo="" group-title="Gjenerale",VisionPlus
+http://cms3.fastiptv.org:80/live?channelId=21&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="AlsatM" tvg-link="" tvg-name="AlsatM" tvg-logo="" group-title="Gjenerale",AlsatM - http://84.22.34.9:8090/iptv?chID=110&uID=109&userName=orangenet&passWord=onet16
+http://cms3.fastiptv.org:80/live?channelId=22&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="TVSH" tvg-link="" tvg-name="TVSH" tvg-logo="" group-title="Gjenerale",TVSH
+http://cms3.fastiptv.org:80/live?channelId=23&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="RrokumTv" tvg-link="" tvg-name="RrokumTv" tvg-logo="" group-title="Gjenerale",RrokumTv
+http://cms3.fastiptv.org:80/live?channelId=24&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="PeaceTv" tvg-link="" tvg-name="PeaceTv" tvg-logo="" group-title="Gjenerale",PeaceTv
+http://cms3.fastiptv.org:80/live?channelId=25&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="ShenjaTv" tvg-link="" tvg-name="ShenjaTv" tvg-logo="" group-title="Gjenerale",ShenjaTv
+http://cms3.fastiptv.org:80/live?channelId=26&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="ArtaNews" tvg-link="" tvg-name="ArtaNews" tvg-logo="" group-title="Lajme",ArtaNews
+http://cms3.fastiptv.org:80/live?channelId=9&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="T7" tvg-link="" tvg-name="T7" tvg-logo="" group-title="Lajme",T7
+http://cms3.fastiptv.org:80/live?channelId=27&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="Kanali7" tvg-link="" tvg-name="Kanali7" tvg-logo="" group-title="Lajme",Kanali7
+http://cms3.fastiptv.org:80/live?channelId=28&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="TopNews" tvg-link="" tvg-name="TopNews" tvg-logo="" group-title="Lajme",TopNews
+http://cms3.fastiptv.org:80/live?channelId=109&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="Living" tvg-link="" tvg-name="Living" tvg-logo="" group-title="Dokumentar",Living
+http://cms3.fastiptv.org:80/live?channelId=29&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="TringMax" tvg-link="" tvg-name="TringMax" tvg-logo="" group-title="Filma",TringMax
+http://cms3.fastiptv.org:80/live?channelId=30&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="TringLife" tvg-link="" tvg-name="TringLife" tvg-logo="" group-title="Filma",TringLife
+http://cms3.fastiptv.org:80/live?channelId=31&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="TringSuper" tvg-link="" tvg-name="TringSuper" tvg-logo="" group-title="Filma",TringSuper
+http://cms3.fastiptv.org:80/live?channelId=36&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="TringComedy" tvg-link="" tvg-name="TringComedy" tvg-logo="" group-title="Filma",TringComedy
+http://cms3.fastiptv.org:80/live?channelId=35&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="TringShqip" tvg-link="" tvg-name="TringShqip" tvg-logo="" group-title="Filma",TringShqip
+http://cms3.fastiptv.org:80/live?channelId=34&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="3Plus" tvg-link="" tvg-name="3Plus" tvg-logo="" group-title="Filma",3Plus
+http://cms3.fastiptv.org:80/live?channelId=39&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="TringFantasy" tvg-link="" tvg-name="TringFantasy" tvg-logo="" group-title="Filma",TringFantasy
+http://cms3.fastiptv.org:80/live?channelId=37&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="JollyHD" tvg-link="" tvg-name="JollyHD" tvg-logo="" group-title="Filma",JollyHD
+http://cms3.fastiptv.org:80/live?channelId=40&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="Smile" tvg-link="" tvg-name="Smile" tvg-logo="" group-title="Filma",Smile
+http://cms3.fastiptv.org:80/live?channelId=38&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="TringHistori" tvg-link="" tvg-name="TringHistori" tvg-logo="" group-title="Dokumentar",TringHistori
+http://cms3.fastiptv.org:80/live?channelId=42&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="TringPlanet" tvg-link="" tvg-name="TringPlanet" tvg-logo="" group-title="Dokumentar",TringPlanet
+http://cms3.fastiptv.org:80/live?channelId=44&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="TringWorld" tvg-link="" tvg-name="TringWorld" tvg-logo="" group-title="Dokumentar",TringWorld
+http://cms3.fastiptv.org:80/live?channelId=41&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="NatGeographis" tvg-link="" tvg-name="NatGeographis" tvg-logo="" group-title="Dokumentar",NatGeographis
+http://cms3.fastiptv.org:80/live?channelId=45&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="NatGeoWild" tvg-link="" tvg-name="NatGeoWild" tvg-logo="" group-title="Dokumentar",NatGeoWild
+http://cms3.fastiptv.org:80/live?channelId=47&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-link="" tvg-name="AnimalPlanet" tvg-logo="" group-title="Dokumentar",AnimalPlanet
+http://cms3.fastiptv.org:80/live?channelId=43&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-link="" tvg-name="DiscoveryChannel" tvg-logo="" group-title="Dokumentar",DiscoveryChannel
+http://cms3.fastiptv.org:80/live?channelId=48&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="TLC" tvg-link="" tvg-name="TLC" tvg-logo="" group-title="Dokumentar",TLC
+http://cms3.fastiptv.org:80/live?channelId=33&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="LuxeTv" tvg-link="" tvg-name="LuxeTv" tvg-logo="" group-title="Dokumentar",LuxeTv
+http://cms3.fastiptv.org:80/live?channelId=46&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="Muse" tvg-link="" tvg-name="Muse" tvg-logo="" group-title="Dokumentar",Muse
+http://cms3.fastiptv.org:80/live?channelId=15&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="TringTring" tvg-link="" tvg-name="TringTring" tvg-logo="" group-title="Per Femije",TringTring
+http://cms3.fastiptv.org:80/live?channelId=16&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="TipTv" tvg-link="" tvg-name="TipTv" tvg-logo="" group-title="Per Femije",TipTv
+http://cms3.fastiptv.org:80/live?channelId=17&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="Sofia" tvg-link="" tvg-name="Sofia" tvg-logo="" group-title="Per Femije",Sofia
+http://cms3.fastiptv.org:80/live?channelId=18&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="BabyTv" tvg-link="" tvg-name="BabyTv" tvg-logo="" group-title="Per Femije",BabyTv
+http://cms3.fastiptv.org:80/live?channelId=19&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="SuperRtl" tvg-link="" tvg-name="SuperRtl" tvg-logo="" group-title="Per Femije",SuperRtl
+http://cms3.fastiptv.org:80/live?channelId=49&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="ERA" tvg-link="" tvg-name="ERA" tvg-logo="" group-title="Gjenerale",ERA - ERA
+http://cms3.fastiptv.org:80/live?channelId=50&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="DisneyChannel" tvg-link="" tvg-name="DisneyChannel" tvg-logo="" group-title="Per Femije",DisneyChannel
+http://cms3.fastiptv.org:80/live?channelId=51&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="DukagjiniTv" tvg-link="" tvg-name="DukagjiniTv" tvg-logo="" group-title="Gjenerale",DukagjiniTv
+http://cms3.fastiptv.org:80/live?channelId=52&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="7HD" tvg-link="" tvg-name="7HD" tvg-logo="" group-title="Filma",7HD
+http://cms3.fastiptv.org:80/live?channelId=54&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="StarHD" tvg-link="" tvg-name="StarHD" tvg-logo="" group-title="Filma",StarHD
+http://cms3.fastiptv.org:80/live?channelId=55&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="SkyMax" tvg-link="" tvg-name="SkyMax" tvg-logo="" group-title="Filma",SkyMax
+http://cms3.fastiptv.org:80/live?channelId=12&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="SkyAksion" tvg-link="" tvg-name="SkyAksion" tvg-logo="" group-title="Filma",SkyAksion
+http://cms3.fastiptv.org:80/live?channelId=56&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="SkyDrame" tvg-link="" tvg-name="SkyDrame" tvg-logo="" group-title="Filma",SkyDrame
+http://cms3.fastiptv.org:80/live?channelId=57&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="SkyKomedi" tvg-link="" tvg-name="SkyKomedi" tvg-logo="http://becktv.ie/sky-logo.jpg" group-title="Filma",SkyKomedi
+http://cms3.fastiptv.org:80/live?channelId=60&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="SkyNovela" tvg-link="" tvg-name="SkyNovela" tvg-logo="http://becktv.ie/sky-logo.jpg" group-title="Filma",SkyNovela
+http://cms3.fastiptv.org:80/live?channelId=59&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="MKTV2" tvg-link="" tvg-name="MKTV2" tvg-logo="" group-title="Gjenerale",MKTV2
+http://cms3.fastiptv.org:80/live?channelId=58&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="SkyShkenc" tvg-link="" tvg-name="SkyShkenc" tvg-logo="http://becktv.ie/sky-logo.jpg" group-title="Dokumentar",SkyShkenc
+http://cms3.fastiptv.org:80/live?channelId=63&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="SkyPlanet" tvg-link="" tvg-name="SkyPlanet" tvg-logo="http://becktv.ie/sky-logo.jpg" group-title="Dokumentar",SkyPlanet
+http://cms3.fastiptv.org:80/live?channelId=62&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="SkyHistori" tvg-link="" tvg-name="SkyHistori" tvg-logo="http://becktv.ie/sky-logo.jpg" group-title="Dokumentar",SkyHistori
+http://cms3.fastiptv.org:80/live?channelId=65&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="RTV21 PLUS" tvg-link="" tvg-name="RTV21 PLUS" tvg-logo="https://lh4.googleusercontent.com/-C6AnUEIq2fY/VbYUl_2IA-I/AAAAAAAABqo/wiO-cfOR8n0/w500-h450-no/rtv21plusHD.png" group-title="Gjenerale",RTV21 PLUS
+http://cms3.fastiptv.org:80/live?channelId=20&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="RTV21 POPULLORE" tvg-link="" tvg-name="RTV21 POPULLORE" tvg-logo="https://lh4.googleusercontent.com/-IHJS2gamogo/VbYUmPizzGI/AAAAAAAABqs/l0zxrhKw-GM/w500-h450-no/rtv21populloreHD.png" group-title="Gjenerale",RTV21 POPULLORE
+http://cms3.fastiptv.org:80/live?channelId=13&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="RTV21 MIX" tvg-link="" tvg-name="RTV21 MIX" tvg-logo="https://lh4.googleusercontent.com/-ThkKteLTff0/VbYUlNkm7xI/AAAAAAAABqk/MtfT8Q32sPw/w500-h450-no/rtv21mixHD.png" group-title="Gjenerale",RTV21 MIX
+http://cms3.fastiptv.org:80/live?channelId=14&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="FOLK +" tvg-link="" tvg-name="FOLK +" tvg-logo="https://i.ytimg.com/i/3slCmnW9jb9HH3V_mehVLQ/1.jpg" group-title="Gjenerale",FOLK +
+http://cms3.fastiptv.org:80/live?channelId=67&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="BBF" tvg-link="" tvg-name="BBF" tvg-logo="http://cdn.ontv.al/storage/tv/bbf.png" group-title="Gjenerale",BBF
+http://cms3.fastiptv.org:80/live?channelId=69&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="Tv Iliria" tvg-link="" tvg-name="Tv Iliria" tvg-logo="https://fbcdn-photos-e-a.akamaihd.net/hphotos-ak-xfp1/v/t1.0-0/p206x206/10931427_871852166208719_8289666435537183982_n.jpg?oh=a8ab3b8ce6fb1c697d5ccf10d3c32c7b&oe=565F0BD5&__gda__=1450046181_e5fab2e5c606025a8282200ff69bc389" group-title="Gjenerale",Tv Iliria
+http://cms3.fastiptv.org:80/live?channelId=61&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="ON TV" tvg-link="" tvg-name="ON TV" tvg-logo="" group-title="Gjenerale",ON TV
+http://cms3.fastiptv.org:80/live?channelId=70&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="DASMA TV" tvg-link="" tvg-name="DASMA TV" tvg-logo="http://dasmatv.com/web/file/2014/11/logo.png" group-title="Gjenerale",DASMA TV
+http://cms3.fastiptv.org:80/live?channelId=72&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="DIASPORA TV" tvg-link="" tvg-name="DIASPORA TV" tvg-logo="" group-title="Gjenerale",DIASPORA TV
+http://cms3.fastiptv.org:80/live?channelId=68&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="TV Llapi" tvg-link="" tvg-name="TV Llapi" tvg-logo="" group-title="Gjenerale",TV Llapi
+http://cms3.fastiptv.org:80/live?channelId=74&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="TvBesa" tvg-link="" tvg-name="TvBesa" tvg-logo="http://ediku.biz/tvbesa/wp-content/uploads/2015/03/logo.png" group-title="Gjenerale",TvBesa
+http://cms3.fastiptv.org:80/live?channelId=64&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="TV LIRIA" tvg-link="" tvg-name="TV LIRIA" tvg-logo="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xaf1/v/t1.0-1/p160x160/10305435_772590466093693_2806351433215594303_n.jpg?oh=16ed84153833c655525ce7ff1c62a751&oe=56AB844D&__gda__=1449732849_3f409770cbe5e77f31a8fa5811161ded" group-title="Gjenerale",TV LIRIA
+http://cms3.fastiptv.org:80/live?channelId=76&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="TV MITROVICA" tvg-link="" tvg-name="TV MITROVICA" tvg-logo="" group-title="Gjenerale",TV MITROVICA
+http://cms3.fastiptv.org:80/live?channelId=73&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="SYRI VISION" tvg-link="" tvg-name="SYRI VISION" tvg-logo="" group-title="Gjenerale",SYRI VISION
+http://cms3.fastiptv.org:80/live?channelId=77&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="FIRST CHANNEL" tvg-link="" tvg-name="FIRST CHANNEL" tvg-logo="http://www.sat-address.com/f/pics/logotipi/First-Channel-Kosovo_o.jpg" group-title="Gjenerale",FIRST CHANNEL
+http://cms3.fastiptv.org:80/live?channelId=78&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="TV OPINIONI" tvg-link="" tvg-name="TV OPINIONI" tvg-logo="http://www.tv-opinion.com/WebFajllat/English/Televizioni%20OPINION.jpg" group-title="Gjenerale",TV OPINIONI
+http://cms3.fastiptv.org:80/live?channelId=79&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="TV TEMA" tvg-link="" tvg-name="TV TEMA" tvg-logo="https://yt3.ggpht.com/-Ev2d2RjTiY4/AAAAAAAAAAI/AAAAAAAAAAA/sbh05EACZ4U/s100-c-k-no/photo.jpg" group-title="Gjenerale",TV TEMA
+http://cms3.fastiptv.org:80/live?channelId=80&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="TV VALI" tvg-link="" tvg-name="TV VALI" tvg-logo="https://yt3.ggpht.com/-etQwFwaxWjU/AAAAAAAAAAI/AAAAAAAAAAA/1K0bU5i7kPk/s100-c-k-no/photo.jpg" group-title="Gjenerale",TV VALI
+http://cms3.fastiptv.org:80/live?channelId=81&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="FAX News" tvg-link="" tvg-name="FAX News" tvg-logo="" group-title="Gjenerale",FAX News
+http://cms3.fastiptv.org:80/live?channelId=82&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="TRING SPORT NEWS" tvg-link="" tvg-name="TRING SPORT NEWS" tvg-logo="http://m.kooora.com/images/logo_sports/tring1.jpg" group-title="Sport",TRING SPORT NEWS
+http://cms3.fastiptv.org:80/live?channelId=32&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="TRING SPORT1" tvg-link="" tvg-name="TRING SPORT1" tvg-logo="https://pbs.twimg.com/profile_images/500213899975618563/FvCgOwUs_400x400.jpeg" group-title="Sport",TRING SPORT1
+http://cms3.fastiptv.org:80/live?channelId=83&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="TRING SPORT2" tvg-link="" tvg-name="TRING SPORT2" tvg-logo="https://pbs.twimg.com/profile_images/500213899975618563/FvCgOwUs_400x400.jpeg" group-title="Sport",TRING SPORT2
+http://cms3.fastiptv.org:80/live?channelId=84&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="TRING SPORT3" tvg-link="" tvg-name="TRING SPORT3" tvg-logo="https://pbs.twimg.com/profile_images/500213899975618563/FvCgOwUs_400x400.jpeg" group-title="Sport",TRING SPORT3
+http://cms3.fastiptv.org:80/live?channelId=87&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="TRING SPORT4" tvg-link="" tvg-name="TRING SPORT4" tvg-logo="https://pbs.twimg.com/profile_images/500213899975618563/FvCgOwUs_400x400.jpeg" group-title="Sport",TRING SPORT4
+http://cms3.fastiptv.org:80/live?channelId=86&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="Tring International" tvg-link="" tvg-name="Tring International" tvg-logo="" group-title="Gjenerale",Tring International
+http://cms3.fastiptv.org:80/live?channelId=88&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="TELESPORT" tvg-link="" tvg-name="TELESPORT" tvg-logo="http://telesport.al/wp-content/themes/telesport-albania/images/logo.png" group-title="Sport",TELESPORT
+http://cms3.fastiptv.org:80/live?channelId=85&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="EuroSport2" tvg-link="" tvg-name="EuroSport2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4f/Eurosport_2_logo.svg" group-title="Sport",EuroSport2
+http://cms3.fastiptv.org:80/live?channelId=91&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="ProSiebenMax" tvg-link="" tvg-name="ProSiebenMax" tvg-logo="http://vignette4.wikia.nocookie.net/tenkai-knights/images/b/bb/ProSieben_Maxx_Logo.jpg/revision/latest?cb=20140701151411" group-title="Filma",ProSiebenMax - ProSiebenMax
+http://cms3.fastiptv.org:80/live?channelId=98&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="ProSieben" tvg-link="" tvg-name="ProSieben" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/bf/Pro7_2.png/revision/latest?cb=20110414092622" group-title="Filma",ProSieben - ProSieben
+http://cms3.fastiptv.org:80/live?channelId=96&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="RTL" tvg-link="" tvg-name="RTL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/RTL_Logo.svg" group-title="Gjenerale",RTL - RTL
+http://cms3.fastiptv.org:80/live?channelId=95&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="RTL2" tvg-link="" tvg-name="RTL2" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/52/Rtl2_logo_2002.svg/revision/latest/scale-to-width-down/200?cb=20110325195918" group-title="Gjenerale",RTL2 - Rtl2
+http://cms3.fastiptv.org:80/live?channelId=89&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="KabelEins" tvg-link="" tvg-name="KabelEins" tvg-logo="" group-title="Filma",KabelEins - KabelEins
+http://cms3.fastiptv.org:80/live?channelId=94&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="Sat1" tvg-link="" tvg-name="Sat1" tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0021/5450/brand.gif?itok=B12Gehy5" group-title="Filma",Sat1 - Sat1
+http://cms3.fastiptv.org:80/live?channelId=97&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="N24" tvg-link="" tvg-name="N24" tvg-logo="http://polpix.sueddeutsche.com/polopoly_fs/1.953402.1355874096!/httpImage/image.jpg_gen/derivatives/860x860/image.jpg" group-title="Dokumentar",N24 - N24
+http://cms3.fastiptv.org:80/live?channelId=101&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="Vox" tvg-link="" tvg-name="Vox" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/a/ac/VOX_Logo.png/revision/latest?cb=20150928151844" group-title="Filma",Vox - Vox
+http://cms3.fastiptv.org:80/live?channelId=103&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="EuroNews" tvg-link="" tvg-name="EuroNews" tvg-logo="http://seeklogo.com/images/E/EuroNews-logo-2C981071C8-seeklogo.com.gif" group-title="Lajme",EuroNews - EuroNews
+http://cms3.fastiptv.org:80/live?channelId=99&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="Rai1" tvg-link="" tvg-name="Rai1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_1_logo.svg/2000px-Rai_1_logo.svg.png" group-title="Filma",Rai1 - Rai1
+http://cms3.fastiptv.org:80/live?channelId=102&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="Rai2" tvg-link="" tvg-name="Rai2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/RAI2_2010_Logo.svg/1280px-RAI2_2010_Logo.svg.png" group-title="Filma",Rai2 - Rai2
+http://cms3.fastiptv.org:80/live?channelId=104&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="Rai3" tvg-link="" tvg-name="Rai3" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/9/99/Logo_Rai_3_2010.svg.png/revision/latest?cb=20151129181104" group-title="Filma",Rai3 - Rai3
+http://cms3.fastiptv.org:80/live?channelId=105&uid=112&deviceMac=00:1a:79:39:9a:24
+#EXTINF:-1 tvg-id="RaiNews" tvg-link="" tvg-name="RaiNews" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/d/d6/Logo_Rainews_it.svg/516px-Logo_Rainews_it.svg.png" group-title="Lajme",RaiNews - RaiNews
+http://cms3.fastiptv.org:80/live?channelId=100&uid=112&deviceMac=00:1a:79:39:9a:24
+--------
+#EXTINF:-1,AL: 24 Kitchen
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59504
+#EXTINF:-1,AL: 7 TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59292
+#EXTINF:-1,AL: AA New York TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59222
+#EXTINF:-1,AL: ABC News
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59435
+#EXTINF:-1,AL: AL Super Sport 2 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59323
+#EXTINF:-1,AL: Alb Action
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59543
+#EXTINF:-1,AL: Alb Film
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59542
+#EXTINF:-1,AL: Alb Folk HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59300
+#EXTINF:-1,AL: Alb Hindi
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59545
+#EXTINF:-1,AL: Alb Hits
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59584
+#EXTINF:-1,AL: Alb Humor 1
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59547
+#EXTINF:-1,AL: Alb Humor 2
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59548
+#EXTINF:-1,AL: Alb Islam
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59612
+#EXTINF:-1,AL: Alb Kids
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59336
+#EXTINF:-1,AL: ALB MUSIC ULTRA HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59337
+#EXTINF:-1,AL: Alb Thriller
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59544
+#EXTINF:-1,AL: Alb Western
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59546
+#EXTINF:-1,AL: Albanian Culture NY
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59441
+#EXTINF:-1,AL: Albanian TV USA
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59366
+#EXTINF:-1,AL: ALBTV USA
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59224
+#EXTINF:-1,AL: ALBUK HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59259
+#EXTINF:-1,AL: Alsat M
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59377
+#EXTINF:-1,AL: ALSAT M HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59368
+#EXTINF:-1,AL: Alsat M Usa Time
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59439
+#EXTINF:-1,AL: AMOL TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59427
+#EXTINF:-1,AL: Animation Channel
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59472
+#EXTINF:-1,AL: Apollon TV (Fier)
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59230
+#EXTINF:-1,AL: aRT HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59405
+#EXTINF:-1,AL: ARTA NEWS
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59431
+#EXTINF:-1,AL: Ashkali Islam
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59212
+#EXTINF:-1,AL: Ashkali TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59229
+#EXTINF:-1,AL: BABASTARS TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59389
+#EXTINF:-1,AL: Baby TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59469
+#EXTINF:-1,AL: Bang Bang
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59442
+#EXTINF:-1,AL: BARBIE TV ( SHQIP )
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59450
+#EXTINF:-1,AL: BBF Music
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59411
+#EXTINF:-1,AL: Beach Albania Live (Plazhi)
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59210
+#EXTINF:-1,AL: Besa TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59595
+#EXTINF:-1,AL: Blue Sky TV (Shkoder)
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59227
+#EXTINF:-1,AL: Boomerang
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59453
+#EXTINF:-1,AL: Bubrreci TV (Femije Shqip)
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59463
+#EXTINF:-1,AL: Burimi TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59599
+#EXTINF:-1,AL: Camel TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59602
+#EXTINF:-1,AL: Cartoon Network
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59452
+#EXTINF:-1,AL: Channel 7
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59280
+#EXTINF:-1,AL: Channel ONE
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59364
+#EXTINF:-1,AL: Chu Chu TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59462
+#EXTINF:-1,AL: Cinemax 2 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59261
+#EXTINF:-1,AL: Cinemax HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59262
+#EXTINF:-1,AL: CityTV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59408
+#EXTINF:-1,AL: Click TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59407
+#EXTINF:-1,AL: Club TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59406
+#EXTINF:-1,AL: Dasma TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59623
+#EXTINF:-1,AL: Dibra TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59422
+#EXTINF:-1,AL: Digi Gold 1 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59535
+#EXTINF:-1,AL: Digi Gold 2 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59532
+#EXTINF:-1,AL: Digi Gold 3 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59533
+#EXTINF:-1,AL: Digi Gold 4 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59534
+#EXTINF:-1,AL: Digi Gold 5
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59253
+#EXTINF:-1,AL: Digi Gold HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59511
+#EXTINF:-1,AL: Discovery Channel
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59335
+#EXTINF:-1,AL: Discovery ID Xtra
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59272
+#EXTINF:-1,AL: Discovery Science
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59481
+#EXTINF:-1,AL: Disney Channel
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59454
+#EXTINF:-1,AL: Disney Cinemagic HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59457
+#EXTINF:-1,AL: Disney JR
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59456
+#EXTINF:-1,AL: Disney XD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59455
+#EXTINF:-1,AL: Drita TV (test)
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59386
+#EXTINF:-1,AL: dt Hits
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59585
+#EXTINF:-1,AL: Duck TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59468
+#EXTINF:-1,AL: E! Entertainment HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59503
+#EXTINF:-1,AL: Elrodi TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59417
+#EXTINF:-1,AL: ERA TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59369
+#EXTINF:-1,AL: Euro Channel
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59290
+#EXTINF:-1,AL: Eurosport 1 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59200
+#EXTINF:-1,AL: Eurosport 2 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59199
+#EXTINF:-1,AL: Explorer Histori
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59475
+#EXTINF:-1,AL: Explorer Natyra
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59474
+#EXTINF:-1,AL: Explorer Shkence
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59473
+#EXTINF:-1,AL: Extreme Sports
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59198
+#EXTINF:-1,AL: Family HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59507
+#EXTINF:-1,AL: FAMILY HD (Digitalb)
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59334
+#EXTINF:-1,AL: Fashion TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59267
+#EXTINF:-1,AL: Fight BOX HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59196
+#EXTINF:-1,AL: Fight Channel HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59195
+#EXTINF:-1,AL: Film Aksion
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59514
+#EXTINF:-1,AL: Film Autor
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59517
+#EXTINF:-1,AL: Film Box Arthouse HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59264
+#EXTINF:-1,AL: Film Box Extra HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59333
+#EXTINF:-1,AL: Film Box HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59266
+#EXTINF:-1,AL: Film Box Plus
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59265
+#EXTINF:-1,AL: Film Dram
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59518
+#EXTINF:-1,AL: Film Dy HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59510
+#EXTINF:-1,AL: FILM DY UHD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59509
+#EXTINF:-1,AL: Film Hits
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59512
+#EXTINF:-1,AL: Film Hits 1
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59513
+#EXTINF:-1,AL: Film Komedi
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59515
+#EXTINF:-1,AL: FILM NJ
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59508
+#EXTINF:-1,AL: Film Shqip
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59574
+#EXTINF:-1,AL: Film Thriller
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59516
+#EXTINF:-1,AL: Filma24 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59536
+#EXTINF:-1,AL: Filmi Umeri r.a
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59260
+#EXTINF:-1,AL: Fine Living
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59506
+#EXTINF:-1,AL: First TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59378
+#EXTINF:-1,AL: Fokus TV USA
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59440
+#EXTINF:-1,AL: Folk
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59416
+#EXTINF:-1,AL: Food Network
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59505
+#EXTINF:-1,AL: FOX
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59495
+#EXTINF:-1,AL: FOX Crime
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59497
+#EXTINF:-1,AL: FOX Crime (digitalb)
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59332
+#EXTINF:-1,AL: FOX Life
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59496
+#EXTINF:-1,AL: Fox Life shqip
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59331
+#EXTINF:-1,AL: FOX Movies
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59498
+#EXTINF:-1,AL: Gjurm
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59489
+#EXTINF:-1,AL: GlobiTV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59624
+#EXTINF:-1,AL: Golden Hits of Disco Music
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59425
+#EXTINF:-1,AL: HBO 2 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59500
+#EXTINF:-1,AL: HBO 3 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59501
+#EXTINF:-1,AL: HBO HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59499
+#EXTINF:-1,AL: History Channel 2
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59270
+#EXTINF:-1,AL: History Channel HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59485
+#EXTINF:-1,AL: IN TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59409
+#EXTINF:-1,AL: Insight FHD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59269
+#EXTINF:-1,AL: ISLAM TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59603
+#EXTINF:-1,AL: Jim Jam
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59461
+#EXTINF:-1,AL: Jolly
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59524
+#EXTINF:-1,AL: JUG TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59382
+#EXTINF:-1,AL: Junior TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59447
+#EXTINF:-1,AL: K
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59274
+#EXTINF:-1,AL: K Music
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59287
+#EXTINF:-1,AL: Kafeneja Jone 24/7
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59550
+#EXTINF:-1,AL: KANAL 5
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59587
+#EXTINF:-1,AL: Kanali 7 News
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59433
+#EXTINF:-1,AL: KIDS HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59471
+#EXTINF:-1,AL: Kino Action HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59330
+#EXTINF:-1,AL: Kino Comedy HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59329
+#EXTINF:-1,AL: Kino Prank HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59530
+#EXTINF:-1,AL: Kino Premiere 1 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59328
+#EXTINF:-1,AL: Kino Premiere 2 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59327
+#EXTINF:-1,AL: Kino Premiere 3 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59326
+#EXTINF:-1,AL: Kitchen24 shqip
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59325
+#EXTINF:-1,AL: KLAN HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59362
+#EXTINF:-1,AL: KLAN Kosova HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59350
+#EXTINF:-1,AL: Klan Kosova Tokesor
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59349
+#EXTINF:-1,AL: Klan Kosova Toksor
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59315
+#EXTINF:-1,AL: Klan Plus FHD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59314
+#EXTINF:-1,AL: KLAN PLUS HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59363
+#EXTINF:-1,AL: Klan TV FHD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59313
+#EXTINF:-1,AL: Kombi TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59621
+#EXTINF:-1,AL: KS 
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59289
+#EXTINF:-1,AL: KS AKSION
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59256
+#EXTINF:-1,AL: KS F
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59278
+#EXTINF:-1,AL: KS Film Aksion
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59555
+#EXTINF:-1,AL: KS Film Komedi
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59554
+#EXTINF:-1,AL: KS FILM SHQIP
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59556
+#EXTINF:-1,AL: KS Film Thriller
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59231
+#EXTINF:-1,AL: KS HITS
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59424
+#EXTINF:-1,AL: KS HORROR
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59255
+#EXTINF:-1,AL: KS HUMOR
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59531
+#EXTINF:-1,AL: KS SERIAL
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59254
+#EXTINF:-1,AL: KS SHQIP
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59257
+#EXTINF:-1,AL: Ksport P
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59277
+#EXTINF:-1,AL: KTV HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59344
+#EXTINF:-1,AL: KTV Toksor
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59343
+#EXTINF:-1,AL: Kujtesa Sport 1 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59206
+#EXTINF:-1,AL: Kujtesa Sport 2 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59205
+#EXTINF:-1,AL: Kujtesa Sport 3 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59204
+#EXTINF:-1,AL: Kujtesa Sport 4 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59203
+#EXTINF:-1,AL: Lexo Dokumentar
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59217
+#EXTINF:-1,AL: Lexo F
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59216
+#EXTINF:-1,AL: Lexo Film
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59215
+#EXTINF:-1,AL: Lexo Ilahi
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59220
+#EXTINF:-1,AL: Lexo M
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59219
+#EXTINF:-1,AL: Lexo TV HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59609
+#EXTINF:-1,AL: Living HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59502
+#EXTINF:-1,AL: Lugina Islam 2 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59218
+#EXTINF:-1,AL: LUGINA ISLAM HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59610
+#EXTINF:-1,AL: Lugina Kuran HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59214
+#EXTINF:-1,AL: Lugina Popullore
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59601
+#EXTINF:-1,AL: Luxe TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59268
+#EXTINF:-1,AL: Makkah TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59613
+#EXTINF:-1,AL: Martial Arts Karate Channel 2
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59561
+#EXTINF:-1,AL: Masha dhe Ariu
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59466
+#EXTINF:-1,AL: Melodi
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59282
+#EXTINF:-1,AL: Mezzo
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59403
+#EXTINF:-1,AL: MFM Music
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59600
+#EXTINF:-1,AL: Mission Impossible Channel
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59557
+#EXTINF:-1,AL: Motorsport TV HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59197
+#EXTINF:-1,AL: MR BEAN (cartoon)
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59275
+#EXTINF:-1,AL: MRT2
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59370
+#EXTINF:-1,AL: MTV Base
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59284
+#EXTINF:-1,AL: MTV Brand New
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59391
+#EXTINF:-1,AL: MTV Dance
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59394
+#EXTINF:-1,AL: MTV Europe
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59390
+#EXTINF:-1,AL: MTV Hits
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59393
+#EXTINF:-1,AL: MTV Kosova
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59412
+#EXTINF:-1,AL: MTV LIVE HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59397
+#EXTINF:-1,AL: MTV Music 24
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59392
+#EXTINF:-1,AL: MTV Rocks
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59395
+#EXTINF:-1,AL: MTV XMAS
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59396
+#EXTINF:-1,AL: Muse
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59311
+#EXTINF:-1,AL: Music
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59324
+#EXTINF:-1,AL: MusicBox Kosova HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59283
+#EXTINF:-1,AL: My Music
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59404
+#EXTINF:-1,AL: NAT GEO
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59482
+#EXTINF:-1,AL: NAT GEO WILD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59483
+#EXTINF:-1,AL: NEWS 24 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59434
+#EXTINF:-1,AL: Nick HD (English Audio)
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59459
+#EXTINF:-1,AL: Nick Jr
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59460
+#EXTINF:-1,AL: Nick Music
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59402
+#EXTINF:-1,AL: Nick Toons
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59276
+#EXTINF:-1,AL: Nickelodeon
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59458
+#EXTINF:-1,AL: Ninulla per gjume
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59467
+#EXTINF:-1,AL: ON TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59410
+#EXTINF:-1,AL: ORA News HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59436
+#EXTINF:-1,AL: Outdoor Channel HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59486
+#EXTINF:-1,AL: Passion Femije
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59449
+#EXTINF:-1,AL: Peace TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59616
+#EXTINF:-1,AL: Pirates of the Caribbean Channel
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59558
+#EXTINF:-1,AL: PJ MASKS HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59464
+#EXTINF:-1,AL: PlayTV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59228
+#EXTINF:-1,AL: Popey The Sailoman
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59465
+#EXTINF:-1,AL: Primo Islam HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59213
+#EXTINF:-1,AL: Radio Nacional Tv
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59281
+#EXTINF:-1,AL: Rajna TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59429
+#EXTINF:-1,AL: RAP 2K
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59285
+#EXTINF:-1,AL: RAP TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59286
+#EXTINF:-1,AL: REAL RTV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59537
+#EXTINF:-1,AL: RELAX TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59573
+#EXTINF:-1,AL: Report TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59437
+#EXTINF:-1,AL: Resalat Al Islam
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59211
+#EXTINF:-1,AL: Rrokum TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59432
+#EXTINF:-1,AL: RTK 1 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59339
+#EXTINF:-1,AL: RTK 2
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59340
+#EXTINF:-1,AL: RTK 3
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59341
+#EXTINF:-1,AL: RTK 4
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59342
+#EXTINF:-1,AL: RTK SAT
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59338
+#EXTINF:-1,AL: RTSH 1 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59353
+#EXTINF:-1,AL: RTSH 2 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59354
+#EXTINF:-1,AL: RTSH 3 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59355
+#EXTINF:-1,AL: RTSH EST
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59225
+#EXTINF:-1,AL: RTSH FILM
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59357
+#EXTINF:-1,AL: RTSH GJIROKASTRA
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59297
+#EXTINF:-1,AL: RTSH KUVEND
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59296
+#EXTINF:-1,AL: RTSH MUZIKE
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59358
+#EXTINF:-1,AL: RTSH SHQIP
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59356
+#EXTINF:-1,AL: RTSH SPORT
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59202
+#EXTINF:-1,AL: RTV 21 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59346
+#EXTINF:-1,AL: RTV 21 Junior
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59470
+#EXTINF:-1,AL: RTV 21 Maqedonia
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59374
+#EXTINF:-1,AL: RTV 21 Mix HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59348
+#EXTINF:-1,AL: RTV 21 NewsBIZ HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59347
+#EXTINF:-1,AL: RTV 21 Plus HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59418
+#EXTINF:-1,AL: RTV 21 Popullore
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59419
+#EXTINF:-1,AL: RTV 21 Toksor
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59345
+#EXTINF:-1,AL: RTV BUJANOVC
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59388
+#EXTINF:-1,AL: RTV Deshira
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59288
+#EXTINF:-1,AL: RTV ILIRIA HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59620
+#EXTINF:-1,AL: RTV Islam
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59607
+#EXTINF:-1,AL: RTV Pendimi
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59223
+#EXTINF:-1,AL: RTV PRESHEVA
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59387
+#EXTINF:-1,AL: RTV Sharri
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59618
+#EXTINF:-1,AL: Rtv Zeri i Kosoves
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59426
+#EXTINF:-1,AL: Scan TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59438
+#EXTINF:-1,AL: ShqipTv Aksion
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59322
+#EXTINF:-1,AL: ShqipTV Cinema
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59321
+#EXTINF:-1,AL: ShqipTv Fantasy HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59316
+#EXTINF:-1,AL: ShqipTV Film HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59553
+#EXTINF:-1,AL: SHQIPTV Hindi HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59552
+#EXTINF:-1,AL: ShqipTv Horror HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59320
+#EXTINF:-1,AL: ShqipTv Humor HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59551
+#EXTINF:-1,AL: ShqipTV Jeta HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59589
+#EXTINF:-1,AL: ShqipTv Komedi HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59319
+#EXTINF:-1,AL: ShqipTV MIMI
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59451
+#EXTINF:-1,AL: ShqipTV Stupcat HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59232
+#EXTINF:-1,AL: SKY 7 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59521
+#EXTINF:-1,AL: Sky Aksion
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59538
+#EXTINF:-1,AL: Sky Animation
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59279
+#EXTINF:-1,AL: Sky Dram
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59541
+#EXTINF:-1,AL: Sky Histori
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59480
+#EXTINF:-1,AL: Sky Komedi
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59540
+#EXTINF:-1,AL: Sky Max
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59539
+#EXTINF:-1,AL: Sky Novela
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59492
+#EXTINF:-1,AL: Sky Planet
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59273
+#EXTINF:-1,AL: Sky Shkence
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59479
+#EXTINF:-1,AL: Sofia HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59446
+#EXTINF:-1,AL: Spiderman Channel
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59559
+#EXTINF:-1,AL: Star Shkodra
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59384
+#EXTINF:-1,AL: Star TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59385
+#EXTINF:-1,AL: Stinet
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59491
+#EXTINF:-1,AL: Stupcat Egjelli 24/7
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59549
+#EXTINF:-1,AL: STV Folk
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59415
+#EXTINF:-1,AL: Super Sport 4 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59301
+#EXTINF:-1,AL: Super Sport 6 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59209
+#EXTINF:-1,AL: Super Sport Kosova 1
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59302
+#EXTINF:-1,AL: Super Sport Kosova 2
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59303
+#EXTINF:-1,AL: Super Sport Kosova 3 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59208
+#EXTINF:-1,AL: Superhero Channel
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59566
+#EXTINF:-1,AL: Supersonic TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59596
+#EXTINF:-1,AL: Suprt Sport 1
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59194
+#EXTINF:-1,AL: Suprt Sport 2
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59193
+#EXTINF:-1,AL: Suprt Sport 3
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59192
+#EXTINF:-1,AL: Suprt Sport 4
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59191
+#EXTINF:-1,AL: Syri Blue HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59619
+#EXTINF:-1,AL: T digitalb
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59520
+#EXTINF:-1,AL: T Digitalb FHD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59318
+#EXTINF:-1,AL: T HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59519
+#EXTINF:-1,AL: T7 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59298
+#EXTINF:-1,AL: TELESPORT
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59201
+#EXTINF:-1,AL: Tema TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59375
+#EXTINF:-1,AL: TETOVA Muzike
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59597
+#EXTINF:-1,AL: Tip TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59448
+#EXTINF:-1,AL: Tirana TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59420
+#EXTINF:-1,AL: TLC
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59271
+#EXTINF:-1,AL: TOP Channel FHD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59312
+#EXTINF:-1,AL: TOP Channel HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59359
+#EXTINF:-1,AL: Top Estrada TV HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59413
+#EXTINF:-1,AL: Trace Urban HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59400
+#EXTINF:-1,AL: Travel Channel
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59484
+#EXTINF:-1,AL: Tribuna Channel
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59352
+#EXTINF:-1,AL: Tring 3
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59490
+#EXTINF:-1,AL: Tring Action
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59526
+#EXTINF:-1,AL: Tring Comedy
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59527
+#EXTINF:-1,AL: Tring Fantasy
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59528
+#EXTINF:-1,AL: Tring Histori
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59478
+#EXTINF:-1,AL: Tring History
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59309
+#EXTINF:-1,AL: Tring Jolly FHD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59308
+#EXTINF:-1,AL: Tring Jolly HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59523
+#EXTINF:-1,AL: Tring Kids
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59445
+#EXTINF:-1,AL: Tring Life
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59529
+#EXTINF:-1,AL: Tring Max
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59307
+#EXTINF:-1,AL: Tring Muse
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59494
+#EXTINF:-1,AL: Tring Planet
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59477
+#EXTINF:-1,AL: Tring Shqip
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59522
+#EXTINF:-1,AL: Tring Smile
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59493
+#EXTINF:-1,AL: Tring Sport 3 FHD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59306
+#EXTINF:-1,AL: Tring Sport 3 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59207
+#EXTINF:-1,AL: Tring Sport 4 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59305
+#EXTINF:-1,AL: Tring Sport News HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59304
+#EXTINF:-1,AL: Tring Super
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59525
+#EXTINF:-1,AL: TringTring
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59444
+#EXTINF:-1,AL: TURBO CHANNEL
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59428
+#EXTINF:-1,AL: TV 1 Channel Shkod
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59625
+#EXTINF:-1,AL: TV 2 Gostivar
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59376
+#EXTINF:-1,AL: TV Art Tetove
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59372
+#EXTINF:-1,AL: TV Arta
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59317
+#EXTINF:-1,AL: TV Diaspora
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59583
+#EXTINF:-1,AL: TV DIELLI
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59367
+#EXTINF:-1,AL: TV DRINI
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59594
+#EXTINF:-1,AL: TV Dukagjini HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59351
+#EXTINF:-1,AL: TV Festa
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59293
+#EXTINF:-1,AL: TV Koha
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59371
+#EXTINF:-1,AL: TV KONTAKT
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59611
+#EXTINF:-1,AL: TV Kopliku HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59421
+#EXTINF:-1,AL: TV Kumanovo
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59588
+#EXTINF:-1,AL: TV Liria
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59294
+#EXTINF:-1,AL: TV Llapi
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59365
+#EXTINF:-1,AL: TV Mitrovica
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59381
+#EXTINF:-1,AL: TV OPINION
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59291
+#EXTINF:-1,AL: TV PENDIMI
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59221
+#EXTINF:-1,AL: TV R
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59598
+#EXTINF:-1,AL: TV Shenja HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59622
+#EXTINF:-1,AL: TV Syri Vision
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59380
+#EXTINF:-1,AL: TV Tema
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59295
+#EXTINF:-1,AL: TV Tetova
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59578
+#EXTINF:-1,AL: TV1000
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59263
+#EXTINF:-1,AL: Uskana TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59373
+#EXTINF:-1,AL: Vali TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59379
+#EXTINF:-1,AL: Vampires and Lycans Channel
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59568
+#EXTINF:-1,AL: VanDamme Channel 2
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59572
+#EXTINF:-1,AL: VH1 Classic
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59399
+#EXTINF:-1,AL: Viasat Explorer
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59487
+#EXTINF:-1,AL: Viasat Nature HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59488
+#EXTINF:-1,AL: VITRINA FILMIT POPCORN
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59258
+#EXTINF:-1,AL: Vizion Plus EST
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59226
+#EXTINF:-1,AL: Vizion Plus HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59360
+#EXTINF:-1,AL: Vizion Plus Toksor
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59361
+#EXTINF:-1,AL: Vizion Plus Toksor FHD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59310
+#EXTINF:-1,AL: X Action HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59247
+#EXTINF:-1,AL: X Comedy HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59246
+#EXTINF:-1,AL: X Dark HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59245
+#EXTINF:-1,AL: X Drama HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59244
+#EXTINF:-1,AL: X Family HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59243
+#EXTINF:-1,AL: X Filma 24 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59242
+#EXTINF:-1,AL: X Gold 1 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59252
+#EXTINF:-1,AL: X Gold 2 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59251
+#EXTINF:-1,AL: X Gold 3 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59250
+#EXTINF:-1,AL: X Gold 4 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59249
+#EXTINF:-1,AL: X Gold HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59248
+#EXTINF:-1,AL: X Humor
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59241
+#EXTINF:-1,AL: X Premium 1 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59240
+#EXTINF:-1,AL: X Premium 2 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59239
+#EXTINF:-1,AL: X Premium 3 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59238
+#EXTINF:-1,AL: X Premium 4 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59237
+#EXTINF:-1,AL: X Romance HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59236
+#EXTINF:-1,AL: X Sci Fi HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59235
+#EXTINF:-1,AL: X Thriller HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59234
+#EXTINF:-1,AL: X Western HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59233
+#EXTINF:-1,AL: XITE Base
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59401
+#EXTINF:-1,AL: Zana Islam HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59608
+#EXTINF:-1,AL: ZICO TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59593
+#EXTINF:-1,AL: Zjarr TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/59383
+#EXTINF:-1,▄ ▅ ▆ ▇ █ ★EX-YU★ █ ▇ ▆ ▅ ▄
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86907
+#EXTINF:-1,EX-YU: 24kitchen
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87069
+#EXTINF:-1,EX-YU: Animal Planet HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87068
+#EXTINF:-1,EX-YU: Arena Sport 1 HD hr
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87067
+#EXTINF:-1,EX-YU: Arena Sport 1 HD sr
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87066
+#EXTINF:-1,EX-YU: Arena Sport 2 HD sr
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87065
+#EXTINF:-1,EX-YU: Arena Sport 2 hr
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87064
+#EXTINF:-1,EX-YU: Arena Sport 3 HD sr
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87063
+#EXTINF:-1,EX-YU: Arena Sport 3 hr
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87062
+#EXTINF:-1,EX-YU: Arena Sport 4 HD sr
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87061
+#EXTINF:-1,EX-YU: Arena Sport 4 hr
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87060
+#EXTINF:-1,EX-YU: Arena Sport 5 HD sr
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87059
+#EXTINF:-1,EX-YU: Arena Sport 5 hr
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87058
+#EXTINF:-1,EX-YU: Arena Sport 6
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87057
+#EXTINF:-1,EX-YU: AXN HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87056
+#EXTINF:-1,EX-YU: AXN Spin
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87055
+#EXTINF:-1,EX-YU: b92
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87054
+#EXTINF:-1,EX-YU: Balkanika
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87053
+#EXTINF:-1,EX-YU: Banovina
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87052
+#EXTINF:-1,EX-YU: bnmusic
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87051
+#EXTINF:-1,EX-YU: CBS Reality
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87050
+#EXTINF:-1,EX-YU: cinemax
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87049
+#EXTINF:-1,EX-YU: cinestar
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87048
+#EXTINF:-1,EX-YU: Cinestar Aktion
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87047
+#EXTINF:-1,EX-YU: Cinestar Premiere 1 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87046
+#EXTINF:-1,EX-YU: Cinestar Premiere 2 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87045
+#EXTINF:-1,EX-YU: cinestarfan
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87044
+#EXTINF:-1,EX-YU: cmc
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87043
+#EXTINF:-1,EX-YU: Crime Investigation HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87042
+#EXTINF:-1,EX-YU: DaVinciLearning
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87041
+#EXTINF:-1,EX-YU: discaverySCI
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87040
+#EXTINF:-1,EX-YU: Discovery Channel
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87039
+#EXTINF:-1,EX-YU: Discovery Turbo Xtra
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87038
+#EXTINF:-1,EX-YU: dmsat
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87037
+#EXTINF:-1,EX-YU: Docu Box
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87036
+#EXTINF:-1,EX-YU: domatv
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87035
+#EXTINF:-1,EX-YU: Domatv HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87034
+#EXTINF:-1,EX-YU: Duga TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87033
+#EXTINF:-1,EX-YU: Eurosport 1 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87032
+#EXTINF:-1,EX-YU: Eurosport 2 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87031
+#EXTINF:-1,EX-YU: FilmboxHD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87030
+#EXTINF:-1,EX-YU: Fox Crime HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87029
+#EXTINF:-1,EX-YU: Fox HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87028
+#EXTINF:-1,EX-YU: Fox Life HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87027
+#EXTINF:-1,EX-YU: Fox Movies HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87026
+#EXTINF:-1,EX-YU: Grand 2
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87025
+#EXTINF:-1,EX-YU: grandtv
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87024
+#EXTINF:-1,EX-YU: HAPPY TV PAROVI LIVE
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87023
+#EXTINF:-1,EX-YU: HappyTV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87022
+#EXTINF:-1,EX-YU: HayatFolk
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87021
+#EXTINF:-1,EX-YU: HayatMusic
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87020
+#EXTINF:-1,EX-YU: hayatovci
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87019
+#EXTINF:-1,EX-YU: HBO 1 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87018
+#EXTINF:-1,EX-YU: HBO 2 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87017
+#EXTINF:-1,EX-YU: HBO 3 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87016
+#EXTINF:-1,EX-YU: History 2 HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87015
+#EXTINF:-1,EX-YU: History HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87014
+#EXTINF:-1,EX-YU: HNtv
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87013
+#EXTINF:-1,EX-YU: Hrt 1
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87012
+#EXTINF:-1,EX-YU: Hrt 2
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87011
+#EXTINF:-1,EX-YU: Hrt 3
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87010
+#EXTINF:-1,EX-YU: Hrt 4
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87009
+#EXTINF:-1,EX-YU: ID Extra
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87008
+#EXTINF:-1,EX-YU: Izvorna TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87007
+#EXTINF:-1,EX-YU: Jugoton
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87006
+#EXTINF:-1,EX-YU: Kanal R
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87005
+#EXTINF:-1,EX-YU: KCN 1
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87004
+#EXTINF:-1,EX-YU: Kcn 2
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87003
+#EXTINF:-1,EX-YU: Kcn 3
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87002
+#EXTINF:-1,EX-YU: Klasik tv
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87001
+#EXTINF:-1,EX-YU: LovIribolov
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/87000
+#EXTINF:-1,EX-YU: M1 Film
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86999
+#EXTINF:-1,EX-YU: M1 Gold
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86998
+#EXTINF:-1,EX-YU: Minimax
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86997
+#EXTINF:-1,EX-YU: MINITV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86996
+#EXTINF:-1,EX-YU: MlaveTv
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86995
+#EXTINF:-1,EX-YU: N1-HR
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86994
+#EXTINF:-1,EX-YU: N1-SRB
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86993
+#EXTINF:-1,EX-YU: Narodna TV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86992
+#EXTINF:-1,EX-YU: National Geographic HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86991
+#EXTINF:-1,EX-YU: National Geographic Wild HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86990
+#EXTINF:-1,EX-YU: Nickeleodon
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86989
+#EXTINF:-1,EX-YU: Nova HD
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86988
+#EXTINF:-1,EX-YU: Nova tv
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86987
+#EXTINF:-1,EX-YU: Nova World
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86986
+#EXTINF:-1,EX-YU: Novars
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86985
+#EXTINF:-1,EX-YU: NoviPazar
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86984
+#EXTINF:-1,EX-YU: Osjecka
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86983
+#EXTINF:-1,EX-YU: Otvalentino
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86982
+#EXTINF:-1,EX-YU: Pink
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86981
+#EXTINF:-1,EX-YU: Pink 2
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86980
+#EXTINF:-1,EX-YU: Pink 3
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86979
+#EXTINF:-1,EX-YU: Pink Action
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86978
+#EXTINF:-1,EX-YU: Pink bih
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86977
+#EXTINF:-1,EX-YU: Pink Classic
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86976
+#EXTINF:-1,EX-YU: Pink Extra
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86975
+#EXTINF:-1,EX-YU: Pink Fashion
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86974
+#EXTINF:-1,EX-YU: Pink Film
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86973
+#EXTINF:-1,EX-YU: Pink Folk
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86972
+#EXTINF:-1,EX-YU: Pink Folk 2
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86971
+#EXTINF:-1,EX-YU: Pink Hits 1
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86970
+#EXTINF:-1,EX-YU: Pink Hits 2
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86969
+#EXTINF:-1,EX-YU: Pink Koncert
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86968
+#EXTINF:-1,EX-YU: Pink Kuvar
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86967
+#EXTINF:-1,EX-YU: Pink Pedia
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86966
+#EXTINF:-1,EX-YU: Pink Premium
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86965
+#EXTINF:-1,EX-YU: Pink Reality
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86964
+#EXTINF:-1,EX-YU: Pink Serije
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86963
+#EXTINF:-1,EX-YU: Pink Super Kids
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86962
+#EXTINF:-1,EX-YU: Pink Thriller
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86961
+#EXTINF:-1,EX-YU: Pink Zabava
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86960
+#EXTINF:-1,EX-YU: PinkComedy
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86959
+#EXTINF:-1,EX-YU: PinkCrimeMystery
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86958
+#EXTINF:-1,EX-YU: PinkHoror
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86957
+#EXTINF:-1,EX-YU: PinkKids
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86956
+#EXTINF:-1,EX-YU: PinkM
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86955
+#EXTINF:-1,EX-YU: PinkPlus
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86954
+#EXTINF:-1,EX-YU: PinkRomanse
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86953
+#EXTINF:-1,EX-YU: PinkSciFi
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86952
+#EXTINF:-1,EX-YU: PinkSoap
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86951
+#EXTINF:-1,EX-YU: PinkWestern
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86950
+#EXTINF:-1,EX-YU: PinkWorld
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86949
+#EXTINF:-1,EX-YU: Prva
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86948
+#EXTINF:-1,EX-YU: Prva Max
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86947
+#EXTINF:-1,EX-YU: Prva Plus
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86946
+#EXTINF:-1,EX-YU: Prva World
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86945
+#EXTINF:-1,EX-YU: RTCG 1
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86944
+#EXTINF:-1,EX-YU: RTCG 2
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86943
+#EXTINF:-1,EX-YU: RTCG SAT
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86942
+#EXTINF:-1,EX-YU: RTL
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86941
+#EXTINF:-1,EX-YU: RTL 2
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86940
+#EXTINF:-1,EX-YU: RTL Crime
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86939
+#EXTINF:-1,EX-YU: RTL Kockica
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86938
+#EXTINF:-1,EX-YU: RTL Living
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86937
+#EXTINF:-1,EX-YU: RTL Pasion
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86936
+#EXTINF:-1,EX-YU: Rts 1
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86935
+#EXTINF:-1,EX-YU: Rts 2
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86934
+#EXTINF:-1,EX-YU: Rts 3
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86933
+#EXTINF:-1,EX-YU: Rtv1
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86932
+#EXTINF:-1,EX-YU: Scifi
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86931
+#EXTINF:-1,EX-YU: SlavonskaTV
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86930
+#EXTINF:-1,EX-YU: SOS
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86929
+#EXTINF:-1,EX-YU: Sport Klub 1 HD sr
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86928
+#EXTINF:-1,EX-YU: Sport Klub 2 HD sr
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86927
+#EXTINF:-1,EX-YU: Sport Klub 3 HD sr
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86926
+#EXTINF:-1,EX-YU: Sportklub
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86925
+#EXTINF:-1,EX-YU: sportklub1hr
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86924
+#EXTINF:-1,EX-YU: sportklub2hr
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86923
+#EXTINF:-1,EX-YU: sportklub3hr
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86922
+#EXTINF:-1,EX-YU: sportklub4sr
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86921
+#EXTINF:-1,EX-YU: sportklub5sr
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86920
+#EXTINF:-1,EX-YU: sportklub6sr
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86919
+#EXTINF:-1,EX-YU: sportskatv
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86918
+#EXTINF:-1,EX-YU: StudioB
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86917
+#EXTINF:-1,EX-YU: Tlc
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86916
+#EXTINF:-1,EX-YU: Travel chanell
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86915
+#EXTINF:-1,EX-YU: TV 1000
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86914
+#EXTINF:-1,EX-YU: Tv Istok 1
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86913
+#EXTINF:-1,EX-YU: Tv Istok 2
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86912
+#EXTINF:-1,EX-YU: Viasat Explorer  5h-23h
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86911
+#EXTINF:-1,EX-YU: viasathistory
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86910
+#EXTINF:-1,EX-YU: viasatnature
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86909
+#EXTINF:-1,EX-YU: Z1
+http://jokeriptv.online:1453/iptvhdmitr/3NknUvI4aK/86908
+----------
+#EXTINF:-1,--->[ ALBANIA ]<---
+http://lucky.lts1.net:23000/live/nard01/01nard/29180.ts
+#EXTINF:-1,[ AL ] A1 ISLAM
+http://lucky.lts1.net:23000/live/nard01/01nard/29178.ts
+#EXTINF:-1,[ AL ] A1 SHQIPTARE
+http://lucky.lts1.net:23000/live/nard01/01nard/29177.ts
+#EXTINF:-1,[ AL ] AA New York TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29176.ts
+#EXTINF:-1,[ AL ] ABC News
+http://lucky.lts1.net:23000/live/nard01/01nard/29175.ts
+#EXTINF:-1,[ AL ] ABC News.
+http://lucky.lts1.net:23000/live/nard01/01nard/29174.ts
+#EXTINF:-1,[ AL ] Alb Action
+http://lucky.lts1.net:23000/live/nard01/01nard/29173.ts
+#EXTINF:-1,[ AL ] Alb Film
+http://lucky.lts1.net:23000/live/nard01/01nard/29172.ts
+#EXTINF:-1,[ AL ] Alb Folk HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29171.ts
+#EXTINF:-1,[ AL ] Alb Hindi
+http://lucky.lts1.net:23000/live/nard01/01nard/29170.ts
+#EXTINF:-1,[ AL ] Alb Hits
+http://lucky.lts1.net:23000/live/nard01/01nard/29169.ts
+#EXTINF:-1,[ AL ] Alb Humor 1
+http://lucky.lts1.net:23000/live/nard01/01nard/29168.ts
+#EXTINF:-1,[ AL ] Alb Humor 2
+http://lucky.lts1.net:23000/live/nard01/01nard/29167.ts
+#EXTINF:-1,[ AL ] Alb Islam
+http://lucky.lts1.net:23000/live/nard01/01nard/29166.ts
+#EXTINF:-1,[ AL ] ALB MOVIE HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29165.ts
+#EXTINF:-1,[ AL ] Alb Thriller
+http://lucky.lts1.net:23000/live/nard01/01nard/29164.ts
+#EXTINF:-1,[ AL ] Alb Western
+http://lucky.lts1.net:23000/live/nard01/01nard/29163.ts
+#EXTINF:-1,[ AL ] Albanian Culture NY
+http://lucky.lts1.net:23000/live/nard01/01nard/29162.ts
+#EXTINF:-1,[ AL ] Albanian TV USA
+http://lucky.lts1.net:23000/live/nard01/01nard/29161.ts
+#EXTINF:-1,[ AL ] AlbaniaTV Chicago
+http://lucky.lts1.net:23000/live/nard01/01nard/29160.ts
+#EXTINF:-1,[ AL ] AlbQifteli (backup)
+http://lucky.lts1.net:23000/live/nard01/01nard/29159.ts
+#EXTINF:-1,[ AL ] ALSAT M  HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29158.ts
+#EXTINF:-1,[ AL ] Alsat M (2) - backup
+http://lucky.lts1.net:23000/live/nard01/01nard/29157.ts
+#EXTINF:-1,[ AL ] Alsat M (backup)
+http://lucky.lts1.net:23000/live/nard01/01nard/29156.ts
+#EXTINF:-1,[ AL ] AMOL TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29155.ts
+#EXTINF:-1,[ AL ] Animal Planet HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29154.ts
+#EXTINF:-1,[ AL ] Apollon TV (Fier)
+http://lucky.lts1.net:23000/live/nard01/01nard/29153.ts
+#EXTINF:-1,[ AL ] aRT HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29152.ts
+#EXTINF:-1,[ AL ] ARTA NEWS
+http://lucky.lts1.net:23000/live/nard01/01nard/29151.ts
+#EXTINF:-1,[ AL ] Ashkali TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29150.ts
+#EXTINF:-1,[ AL ] Ashkali TV ISLAM
+http://lucky.lts1.net:23000/live/nard01/01nard/29149.ts
+#EXTINF:-1,[ AL ] AV TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29148.ts
+#EXTINF:-1,[ AL ] BABASTARS TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29147.ts
+#EXTINF:-1,[ AL ] Baby Tv
+http://lucky.lts1.net:23000/live/nard01/01nard/29146.ts
+#EXTINF:-1,[ AL ] Bang Bang
+http://lucky.lts1.net:23000/live/nard01/01nard/29145.ts
+#EXTINF:-1,[ AL ] BARBIE TV ( SHQIP )
+http://lucky.lts1.net:23000/live/nard01/01nard/29144.ts
+#EXTINF:-1,[ AL ] BB11 HD (backup)
+http://lucky.lts1.net:23000/live/nard01/01nard/29143.ts
+#EXTINF:-1,[ AL ] BBC Earth HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29142.ts
+#EXTINF:-1,[ AL ] BBF Music
+http://lucky.lts1.net:23000/live/nard01/01nard/29141.ts
+#EXTINF:-1,[ AL ] Beach Albania Live (Plazhi)
+http://lucky.lts1.net:23000/live/nard01/01nard/29140.ts
+#EXTINF:-1,[ AL ] Besa TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29139.ts
+#EXTINF:-1,[ AL ] Blue Sky TV (muzike)
+http://lucky.lts1.net:23000/live/nard01/01nard/29138.ts
+#EXTINF:-1,[ AL ] Blue Sky TV (Shkoder)
+http://lucky.lts1.net:23000/live/nard01/01nard/29137.ts
+#EXTINF:-1,[ AL ] Boomerang
+http://lucky.lts1.net:23000/live/nard01/01nard/29136.ts
+#EXTINF:-1,[ AL ] Bubrreci TV (Femije Shqip)
+http://lucky.lts1.net:23000/live/nard01/01nard/29135.ts
+#EXTINF:-1,[ AL ] ÇAMËRIA TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29134.ts
+#EXTINF:-1,[ AL ] Cartoon Network
+http://lucky.lts1.net:23000/live/nard01/01nard/29133.ts
+#EXTINF:-1,[ AL ] Channel 7
+http://lucky.lts1.net:23000/live/nard01/01nard/29132.ts
+#EXTINF:-1,[ AL ] Channel ONE
+http://lucky.lts1.net:23000/live/nard01/01nard/29131.ts
+#EXTINF:-1,[ AL ] Chu Chu TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29130.ts
+#EXTINF:-1,[ AL ] CityTV
+http://lucky.lts1.net:23000/live/nard01/01nard/29129.ts
+#EXTINF:-1,[ AL ] Click TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29128.ts
+#EXTINF:-1,[ AL ] Club TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29127.ts
+#EXTINF:-1,[ AL ] Comedy Central Extra
+http://lucky.lts1.net:23000/live/nard01/01nard/29126.ts
+#EXTINF:-1,[ AL ] ÇUFO
+http://lucky.lts1.net:23000/live/nard01/01nard/29125.ts
+#EXTINF:-1,[ AL ] Dasma TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29124.ts
+#EXTINF:-1,[ AL ] Dibra TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29123.ts
+#EXTINF:-1,[ AL ] Digi Gold (DigitAlb)
+http://lucky.lts1.net:23000/live/nard01/01nard/29122.ts
+#EXTINF:-1,[ AL ] Digi Gold 1
+http://lucky.lts1.net:23000/live/nard01/01nard/29121.ts
+#EXTINF:-1,[ AL ] Digi Gold 1 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29120.ts
+#EXTINF:-1,[ AL ] Digi Gold 2
+http://lucky.lts1.net:23000/live/nard01/01nard/29119.ts
+#EXTINF:-1,[ AL ] Digi Gold 2 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29118.ts
+#EXTINF:-1,[ AL ] Digi Gold 3
+http://lucky.lts1.net:23000/live/nard01/01nard/29117.ts
+#EXTINF:-1,[ AL ] Digi Gold 3 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29116.ts
+#EXTINF:-1,[ AL ] Digi Gold 4
+http://lucky.lts1.net:23000/live/nard01/01nard/29115.ts
+#EXTINF:-1,[ AL ] Digi Gold 4 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29114.ts
+#EXTINF:-1,[ AL ] Digi Gold 5
+http://lucky.lts1.net:23000/live/nard01/01nard/29113.ts
+#EXTINF:-1,[ AL ] Discovery Channel
+http://lucky.lts1.net:23000/live/nard01/01nard/29112.ts
+#EXTINF:-1,[ AL ] Discovery Science
+http://lucky.lts1.net:23000/live/nard01/01nard/29111.ts
+#EXTINF:-1,[ AL ] Discovery Science HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29110.ts
+#EXTINF:-1,[ AL ] Discovery Shed.
+http://lucky.lts1.net:23000/live/nard01/01nard/29109.ts
+#EXTINF:-1,[ AL ] Discovery Showcase HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29108.ts
+#EXTINF:-1,[ AL ] Discovery Turbo Extra
+http://lucky.lts1.net:23000/live/nard01/01nard/29107.ts
+#EXTINF:-1,[ AL ] Discovery World
+http://lucky.lts1.net:23000/live/nard01/01nard/29106.ts
+#EXTINF:-1,[ AL ] Disney Channel
+http://lucky.lts1.net:23000/live/nard01/01nard/29105.ts
+#EXTINF:-1,[ AL ] Disney Cinemagic HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29104.ts
+#EXTINF:-1,[ AL ] Disney Junior
+http://lucky.lts1.net:23000/live/nard01/01nard/29103.ts
+#EXTINF:-1,[ AL ] Disney XD
+http://lucky.lts1.net:23000/live/nard01/01nard/29102.ts
+#EXTINF:-1,[ AL ] DOCUBOX HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29101.ts
+#EXTINF:-1,[ AL ] DONALD DUCK
+http://lucky.lts1.net:23000/live/nard01/01nard/29100.ts
+#EXTINF:-1,[ AL ] Drita Tv (test)
+http://lucky.lts1.net:23000/live/nard01/01nard/29099.ts
+#EXTINF:-1,[ AL ] dt Hits
+http://lucky.lts1.net:23000/live/nard01/01nard/29098.ts
+#EXTINF:-1,[ AL ] Duck TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29097.ts
+#EXTINF:-1,[ AL ] E! Entertainment HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29096.ts
+#EXTINF:-1,[ AL ] Elrodi TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29095.ts
+#EXTINF:-1,[ AL ] English Club TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29094.ts
+#EXTINF:-1,[ AL ] ERA TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29093.ts
+#EXTINF:-1,[ AL ] Euro Channel
+http://lucky.lts1.net:23000/live/nard01/01nard/29092.ts
+#EXTINF:-1,[ AL ] Eurosport 1 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29091.ts
+#EXTINF:-1,[ AL ] Eurosport 2 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29090.ts
+#EXTINF:-1,[ AL ] Eurosport News
+http://lucky.lts1.net:23000/live/nard01/01nard/29089.ts
+#EXTINF:-1,[ AL ] Explorer Histori
+http://lucky.lts1.net:23000/live/nard01/01nard/29088.ts
+#EXTINF:-1,[ AL ] Explorer Natyra
+http://lucky.lts1.net:23000/live/nard01/01nard/29087.ts
+#EXTINF:-1,[ AL ] Explorer Shkence
+http://lucky.lts1.net:23000/live/nard01/01nard/29086.ts
+#EXTINF:-1,[ AL ] Extreme Sports
+http://lucky.lts1.net:23000/live/nard01/01nard/29085.ts
+#EXTINF:-1,[ AL ] Family HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29084.ts
+#EXTINF:-1,[ AL ] FashionBox HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29083.ts
+#EXTINF:-1,[ AL ] Film Aksion
+http://lucky.lts1.net:23000/live/nard01/01nard/29082.ts
+#EXTINF:-1,[ AL ] Film Autor
+http://lucky.lts1.net:23000/live/nard01/01nard/29081.ts
+#EXTINF:-1,[ AL ] Film Dramë
+http://lucky.lts1.net:23000/live/nard01/01nard/29080.ts
+#EXTINF:-1,[ AL ] Film Dy HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29079.ts
+#EXTINF:-1,[ AL ] FILM DY HD (Back Up)
+http://lucky.lts1.net:23000/live/nard01/01nard/29078.ts
+#EXTINF:-1,[ AL ] Film Hits
+http://lucky.lts1.net:23000/live/nard01/01nard/29077.ts
+#EXTINF:-1,[ AL ] Film Hits  1
+http://lucky.lts1.net:23000/live/nard01/01nard/29076.ts
+#EXTINF:-1,[ AL ] Film Komedi
+http://lucky.lts1.net:23000/live/nard01/01nard/29075.ts
+#EXTINF:-1,[ AL ] Film NJË HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29074.ts
+#EXTINF:-1,[ AL ] FILM NJË HD (Back Up)
+http://lucky.lts1.net:23000/live/nard01/01nard/29073.ts
+#EXTINF:-1,[ AL ] Film Shqip
+http://lucky.lts1.net:23000/live/nard01/01nard/29072.ts
+#EXTINF:-1,[ AL ] Film Thriller
+http://lucky.lts1.net:23000/live/nard01/01nard/29071.ts
+#EXTINF:-1,[ AL ] Fine Living
+http://lucky.lts1.net:23000/live/nard01/01nard/29070.ts
+#EXTINF:-1,[ AL ] First TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29069.ts
+#EXTINF:-1,[ AL ] Fokus TV USA
+http://lucky.lts1.net:23000/live/nard01/01nard/29068.ts
+#EXTINF:-1,[ AL ] Folk
+http://lucky.lts1.net:23000/live/nard01/01nard/29067.ts
+#EXTINF:-1,[ AL ] Folklorit
+http://lucky.lts1.net:23000/live/nard01/01nard/29066.ts
+#EXTINF:-1,[ AL ] Food Network
+http://lucky.lts1.net:23000/live/nard01/01nard/29065.ts
+#EXTINF:-1,[ AL ] FOX
+http://lucky.lts1.net:23000/live/nard01/01nard/29064.ts
+#EXTINF:-1,[ AL ] FOX Crime
+http://lucky.lts1.net:23000/live/nard01/01nard/29063.ts
+#EXTINF:-1,[ AL ] FOX Life
+http://lucky.lts1.net:23000/live/nard01/01nard/29062.ts
+#EXTINF:-1,[ AL ] FOX Movies
+http://lucky.lts1.net:23000/live/nard01/01nard/29061.ts
+#EXTINF:-1,[ AL ] Gezuar me Luginen
+http://lucky.lts1.net:23000/live/nard01/01nard/29060.ts
+#EXTINF:-1,[ AL ] Gjurmë Shqipëtare TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29059.ts
+#EXTINF:-1,[ AL ] GlobiTV
+http://lucky.lts1.net:23000/live/nard01/01nard/29058.ts
+#EXTINF:-1,[ AL ] Golden Hits of Disco Music
+http://lucky.lts1.net:23000/live/nard01/01nard/29057.ts
+#EXTINF:-1,[ AL ] HBO 2 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29056.ts
+#EXTINF:-1,[ AL ] HBO 3 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29055.ts
+#EXTINF:-1,[ AL ] HBO HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29054.ts
+#EXTINF:-1,[ AL ] History Channel HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29053.ts
+#EXTINF:-1,[ AL ] I vetëm në shtëpi 1-2-3-4
+http://lucky.lts1.net:23000/live/nard01/01nard/29052.ts
+#EXTINF:-1,[ AL ] IN  TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29051.ts
+#EXTINF:-1,[ AL ] Insight UHD
+http://lucky.lts1.net:23000/live/nard01/01nard/29050.ts
+#EXTINF:-1,[ AL ] Jim Jam (English Audio)
+http://lucky.lts1.net:23000/live/nard01/01nard/29049.ts
+#EXTINF:-1,[ AL ] Jolly HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29048.ts
+#EXTINF:-1,[ AL ] Jolly HD (Back Up)
+http://lucky.lts1.net:23000/live/nard01/01nard/29047.ts
+#EXTINF:-1,[ AL ] JUG TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29046.ts
+#EXTINF:-1,[ AL ] Junior TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29045.ts
+#EXTINF:-1,[ AL ] Kafeneja Jone 24/7
+http://lucky.lts1.net:23000/live/nard01/01nard/29044.ts
+#EXTINF:-1,[ AL ] Kanali 7 News
+http://lucky.lts1.net:23000/live/nard01/01nard/29043.ts
+#EXTINF:-1,[ AL ] Këngë për Fëmijë
+http://lucky.lts1.net:23000/live/nard01/01nard/29042.ts
+#EXTINF:-1,[ AL ] KIDS HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29041.ts
+#EXTINF:-1,[ AL ] KLAN HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29040.ts
+#EXTINF:-1,[ AL ] KLAN Kosova HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29039.ts
+#EXTINF:-1,[ AL ] Klan Kosova Tokesor
+http://lucky.lts1.net:23000/live/nard01/01nard/29038.ts
+#EXTINF:-1,[ AL ] KLAN PLUS HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29037.ts
+#EXTINF:-1,[ AL ] KLAN TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29036.ts
+#EXTINF:-1,[ AL ] Kombi TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29035.ts
+#EXTINF:-1,[ AL ] KS Çifteli HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29034.ts
+#EXTINF:-1,[ AL ] KS FËMIJË
+http://lucky.lts1.net:23000/live/nard01/01nard/29033.ts
+#EXTINF:-1,[ AL ] KS Film Aksion
+http://lucky.lts1.net:23000/live/nard01/01nard/29032.ts
+#EXTINF:-1,[ AL ] KS Film Komedi
+http://lucky.lts1.net:23000/live/nard01/01nard/29031.ts
+#EXTINF:-1,[ AL ] KS FILM SHQIP
+http://lucky.lts1.net:23000/live/nard01/01nard/29030.ts
+#EXTINF:-1,[ AL ] KS Film Thriller
+http://lucky.lts1.net:23000/live/nard01/01nard/29029.ts
+#EXTINF:-1,[ AL ] KS GOLD 1 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29028.ts
+#EXTINF:-1,[ AL ] KS GOLD 2 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29027.ts
+#EXTINF:-1,[ AL ] KS GOLD 3 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29026.ts
+#EXTINF:-1,[ AL ] KS GOLD 4 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29025.ts
+#EXTINF:-1,[ AL ] KS HITS
+http://lucky.lts1.net:23000/live/nard01/01nard/29024.ts
+#EXTINF:-1,[ AL ] KS HUMOR
+http://lucky.lts1.net:23000/live/nard01/01nard/29023.ts
+#EXTINF:-1,[ AL ] KS Ilahi Nasheed Channel
+http://lucky.lts1.net:23000/live/nard01/01nard/29022.ts
+#EXTINF:-1,[ AL ] KS MUZIK
+http://lucky.lts1.net:23000/live/nard01/01nard/29021.ts
+#EXTINF:-1,[ AL ] KS SERIAL
+http://lucky.lts1.net:23000/live/nard01/01nard/29020.ts
+#EXTINF:-1,[ AL ] Ksport Animation Channel
+http://lucky.lts1.net:23000/live/nard01/01nard/29019.ts
+#EXTINF:-1,[ AL ] KSPORT ISLAM TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29018.ts
+#EXTINF:-1,[ AL ] KSPORT KIDS
+http://lucky.lts1.net:23000/live/nard01/01nard/29017.ts
+#EXTINF:-1,[ AL ] Ksport Martial Arts Karate Channel 1
+http://lucky.lts1.net:23000/live/nard01/01nard/29016.ts
+#EXTINF:-1,[ AL ] Ksport Martial Arts Karate Channel 2
+http://lucky.lts1.net:23000/live/nard01/01nard/29015.ts
+#EXTINF:-1,[ AL ] Ksport Martial Arts Karate Channel 3
+http://lucky.lts1.net:23000/live/nard01/01nard/29014.ts
+#EXTINF:-1,[ AL ] Ksport Mission Impossible Channel
+http://lucky.lts1.net:23000/live/nard01/01nard/29013.ts
+#EXTINF:-1,[ AL ] Ksport Mummy Scorpion Channel
+http://lucky.lts1.net:23000/live/nard01/01nard/29012.ts
+#EXTINF:-1,[ AL ] Ksport Pirates of the Caribbean Channel
+http://lucky.lts1.net:23000/live/nard01/01nard/29011.ts
+#EXTINF:-1,[ AL ] Ksport Portokalli
+http://lucky.lts1.net:23000/live/nard01/01nard/29010.ts
+#EXTINF:-1,[ AL ] KSPORT RELAX TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29009.ts
+#EXTINF:-1,[ AL ] Ksport Rocky Balboa Channel
+http://lucky.lts1.net:23000/live/nard01/01nard/29008.ts
+#EXTINF:-1,[ AL ] Ksport Spiderman Channel
+http://lucky.lts1.net:23000/live/nard01/01nard/29007.ts
+#EXTINF:-1,[ AL ] Ksport Superhero Channel
+http://lucky.lts1.net:23000/live/nard01/01nard/29006.ts
+#EXTINF:-1,[ AL ] Ksport The Expendables channel
+http://lucky.lts1.net:23000/live/nard01/01nard/29005.ts
+#EXTINF:-1,[ AL ] Ksport Transformers Channel
+http://lucky.lts1.net:23000/live/nard01/01nard/29004.ts
+#EXTINF:-1,[ AL ] Ksport Twilight Saga Channel
+http://lucky.lts1.net:23000/live/nard01/01nard/29003.ts
+#EXTINF:-1,[ AL ] Ksport Vampires and Lycans Channel
+http://lucky.lts1.net:23000/live/nard01/01nard/29002.ts
+#EXTINF:-1,[ AL ] Ksport VanDamme Channel
+http://lucky.lts1.net:23000/live/nard01/01nard/29001.ts
+#EXTINF:-1,[ AL ] Ksport VanDamme Channel 2
+http://lucky.lts1.net:23000/live/nard01/01nard/29000.ts
+#EXTINF:-1,[ AL ] Ksport X-MEN Channel
+http://lucky.lts1.net:23000/live/nard01/01nard/28999.ts
+#EXTINF:-1,[ AL ] KTV HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28998.ts
+#EXTINF:-1,[ AL ] KTV Toksor
+http://lucky.lts1.net:23000/live/nard01/01nard/28997.ts
+#EXTINF:-1,[ AL ] Kujtesa Sport 1 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28996.ts
+#EXTINF:-1,[ AL ] Kujtesa Sport 2 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28995.ts
+#EXTINF:-1,[ AL ] Kujtesa Sport 3 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28994.ts
+#EXTINF:-1,[ AL ] Kujtesa Sport 4 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28993.ts
+#EXTINF:-1,[ AL ] KUNG FU PANDA ( SHQIP )
+http://lucky.lts1.net:23000/live/nard01/01nard/28992.ts
+#EXTINF:-1,[ AL ] Lexo Tv
+http://lucky.lts1.net:23000/live/nard01/01nard/28991.ts
+#EXTINF:-1,[ AL ] Living HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28990.ts
+#EXTINF:-1,[ AL ] LUGINA ISLAM HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28989.ts
+#EXTINF:-1,[ AL ] Lugina Serial HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28988.ts
+#EXTINF:-1,[ AL ] Makkah TV
+http://lucky.lts1.net:23000/live/nard01/01nard/28987.ts
+#EXTINF:-1,[ AL ] Masha dhe Ariu
+http://lucky.lts1.net:23000/live/nard01/01nard/28986.ts
+#EXTINF:-1,[ AL ] Medina TV
+http://lucky.lts1.net:23000/live/nard01/01nard/28985.ts
+#EXTINF:-1,[ AL ] Melodi
+http://lucky.lts1.net:23000/live/nard01/01nard/28984.ts
+#EXTINF:-1,[ AL ] Mezzo
+http://lucky.lts1.net:23000/live/nard01/01nard/28983.ts
+#EXTINF:-1,[ AL ] MFM Music
+http://lucky.lts1.net:23000/live/nard01/01nard/28982.ts
+#EXTINF:-1,[ AL ] Mickey Mouse HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28981.ts
+#EXTINF:-1,[ AL ] Motorsport TV HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28980.ts
+#EXTINF:-1,[ AL ] MR BEAN (cartoon)
+http://lucky.lts1.net:23000/live/nard01/01nard/28979.ts
+#EXTINF:-1,[ AL ] MRT2
+http://lucky.lts1.net:23000/live/nard01/01nard/28978.ts
+#EXTINF:-1,[ AL ] MTV Adria
+http://lucky.lts1.net:23000/live/nard01/01nard/28977.ts
+#EXTINF:-1,[ AL ] MTV Brand New
+http://lucky.lts1.net:23000/live/nard01/01nard/28976.ts
+#EXTINF:-1,[ AL ] MTV Classic
+http://lucky.lts1.net:23000/live/nard01/01nard/28975.ts
+#EXTINF:-1,[ AL ] MTV Dance
+http://lucky.lts1.net:23000/live/nard01/01nard/28974.ts
+#EXTINF:-1,[ AL ] MTV Europe
+http://lucky.lts1.net:23000/live/nard01/01nard/28973.ts
+#EXTINF:-1,[ AL ] MTV Hits
+http://lucky.lts1.net:23000/live/nard01/01nard/28972.ts
+#EXTINF:-1,[ AL ] MTV Kosova
+http://lucky.lts1.net:23000/live/nard01/01nard/28971.ts
+#EXTINF:-1,[ AL ] MTV LIVE HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28970.ts
+#EXTINF:-1,[ AL ] MTV Music 24
+http://lucky.lts1.net:23000/live/nard01/01nard/28969.ts
+#EXTINF:-1,[ AL ] MTV Rocks
+http://lucky.lts1.net:23000/live/nard01/01nard/28968.ts
+#EXTINF:-1,[ AL ] Muzike Hite
+http://lucky.lts1.net:23000/live/nard01/01nard/28967.ts
+#EXTINF:-1,[ AL ] My Music
+http://lucky.lts1.net:23000/live/nard01/01nard/28966.ts
+#EXTINF:-1,[ AL ] NatGeo HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28965.ts
+#EXTINF:-1,[ AL ] NatGeo WILD
+http://lucky.lts1.net:23000/live/nard01/01nard/28964.ts
+#EXTINF:-1,[ AL ] National Geographic AL
+http://lucky.lts1.net:23000/live/nard01/01nard/28963.ts
+#EXTINF:-1,[ AL ] News 24
+http://lucky.lts1.net:23000/live/nard01/01nard/28962.ts
+#EXTINF:-1,[ AL ] NEWS 24 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28961.ts
+#EXTINF:-1,[ AL ] Nick HD (English Audio)
+http://lucky.lts1.net:23000/live/nard01/01nard/28960.ts
+#EXTINF:-1,[ AL ] Nick Jr.
+http://lucky.lts1.net:23000/live/nard01/01nard/28959.ts
+#EXTINF:-1,[ AL ] Nickelodeon
+http://lucky.lts1.net:23000/live/nard01/01nard/28958.ts
+#EXTINF:-1,[ AL ] Ninulla per gjume
+http://lucky.lts1.net:23000/live/nard01/01nard/28957.ts
+#EXTINF:-1,[ AL ] ON TV
+http://lucky.lts1.net:23000/live/nard01/01nard/28956.ts
+#EXTINF:-1,[ AL ] ORA News HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28955.ts
+#EXTINF:-1,[ AL ] Outdoor Channel HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28954.ts
+#EXTINF:-1,[ AL ] Passion Femije
+http://lucky.lts1.net:23000/live/nard01/01nard/28953.ts
+#EXTINF:-1,[ AL ] Peace tv (English)
+http://lucky.lts1.net:23000/live/nard01/01nard/28952.ts
+#EXTINF:-1,[ AL ] Peace TV Shqip
+http://lucky.lts1.net:23000/live/nard01/01nard/28951.ts
+#EXTINF:-1,[ AL ] PJ MASKS HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28950.ts
+#EXTINF:-1,[ AL ] Popey The Sailoman
+http://lucky.lts1.net:23000/live/nard01/01nard/28949.ts
+#EXTINF:-1,[ AL ] QIFTELI
+http://lucky.lts1.net:23000/live/nard01/01nard/28948.ts
+#EXTINF:-1,[ AL ] Quran in Albanian by EDC
+http://lucky.lts1.net:23000/live/nard01/01nard/28947.ts
+#EXTINF:-1,[ AL ] Radio 24 Popullore
+http://lucky.lts1.net:23000/live/nard01/01nard/28946.ts
+#EXTINF:-1,[ AL ] Radio Dashuria
+http://lucky.lts1.net:23000/live/nard01/01nard/28945.ts
+#EXTINF:-1,[ AL ] Radio Dielli
+http://lucky.lts1.net:23000/live/nard01/01nard/28944.ts
+#EXTINF:-1,[ AL ] Radio Gurbeti
+http://lucky.lts1.net:23000/live/nard01/01nard/28943.ts
+#EXTINF:-1,[ AL ] Radio KOSOVA
+http://lucky.lts1.net:23000/live/nard01/01nard/28942.ts
+#EXTINF:-1,[ AL ] Radio Kosova e Lire
+http://lucky.lts1.net:23000/live/nard01/01nard/28941.ts
+#EXTINF:-1,[ AL ] Radio Kosovarja
+http://lucky.lts1.net:23000/live/nard01/01nard/28940.ts
+#EXTINF:-1,[ AL ] Radio KS'Dahuria
+http://lucky.lts1.net:23000/live/nard01/01nard/28939.ts
+#EXTINF:-1,[ AL ] Radio KS'Dance
+http://lucky.lts1.net:23000/live/nard01/01nard/28938.ts
+#EXTINF:-1,[ AL ] Radio KS'Dance HITS
+http://lucky.lts1.net:23000/live/nard01/01nard/28937.ts
+#EXTINF:-1,[ AL ] Radio KS'Electro
+http://lucky.lts1.net:23000/live/nard01/01nard/28936.ts
+#EXTINF:-1,[ AL ] Radio KS'HITS- 90s Pop
+http://lucky.lts1.net:23000/live/nard01/01nard/28935.ts
+#EXTINF:-1,[ AL ] Radio KS'HOUSE
+http://lucky.lts1.net:23000/live/nard01/01nard/28934.ts
+#EXTINF:-1,[ AL ] Radio KS'POPULLORE
+http://lucky.lts1.net:23000/live/nard01/01nard/28933.ts
+#EXTINF:-1,[ AL ] Radio KS'SHARRI - Dragash
+http://lucky.lts1.net:23000/live/nard01/01nard/28932.ts
+#EXTINF:-1,[ AL ] RADIO KSPORT
+http://lucky.lts1.net:23000/live/nard01/01nard/28931.ts
+#EXTINF:-1,[ AL ] Radio Marimanga
+http://lucky.lts1.net:23000/live/nard01/01nard/28930.ts
+#EXTINF:-1,[ AL ] Radio Shqipet e Folklorit
+http://lucky.lts1.net:23000/live/nard01/01nard/28929.ts
+#EXTINF:-1,[ AL ] Rajna Film
+http://lucky.lts1.net:23000/live/nard01/01nard/28928.ts
+#EXTINF:-1,[ AL ] Report TV
+http://lucky.lts1.net:23000/live/nard01/01nard/28927.ts
+#EXTINF:-1,[ AL ] Rrokum TV
+http://lucky.lts1.net:23000/live/nard01/01nard/28926.ts
+#EXTINF:-1,[ AL ] RTK 1
+http://lucky.lts1.net:23000/live/nard01/01nard/28925.ts
+#EXTINF:-1,[ AL ] RTK 1 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28924.ts
+#EXTINF:-1,[ AL ] RTK 2
+http://lucky.lts1.net:23000/live/nard01/01nard/28923.ts
+#EXTINF:-1,[ AL ] RTK 3
+http://lucky.lts1.net:23000/live/nard01/01nard/28922.ts
+#EXTINF:-1,[ AL ] RTK 4
+http://lucky.lts1.net:23000/live/nard01/01nard/28921.ts
+#EXTINF:-1,[ AL ] RTK SAT
+http://lucky.lts1.net:23000/live/nard01/01nard/28920.ts
+#EXTINF:-1,[ AL ] RTSH 1 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28919.ts
+#EXTINF:-1,[ AL ] RTSH 2 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28918.ts
+#EXTINF:-1,[ AL ] RTSH 3 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28917.ts
+#EXTINF:-1,[ AL ] RTSH FILM
+http://lucky.lts1.net:23000/live/nard01/01nard/28916.ts
+#EXTINF:-1,[ AL ] RTSH SHQIP
+http://lucky.lts1.net:23000/live/nard01/01nard/28915.ts
+#EXTINF:-1,[ AL ] RTSH SPORT
+http://lucky.lts1.net:23000/live/nard01/01nard/28914.ts
+#EXTINF:-1,[ AL ] RTV 21 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28913.ts
+#EXTINF:-1,[ AL ] RTV 21 Junior
+http://lucky.lts1.net:23000/live/nard01/01nard/28912.ts
+#EXTINF:-1,[ AL ] RTV 21 Maqedonia
+http://lucky.lts1.net:23000/live/nard01/01nard/28911.ts
+#EXTINF:-1,[ AL ] RTV 21 Mix HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28910.ts
+#EXTINF:-1,[ AL ] RTV 21 NewsBIZ HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28909.ts
+#EXTINF:-1,[ AL ] RTV 21 Plus HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28908.ts
+#EXTINF:-1,[ AL ] RTV 21 Popullore
+http://lucky.lts1.net:23000/live/nard01/01nard/28907.ts
+#EXTINF:-1,[ AL ] RTV 21 Toksor
+http://lucky.lts1.net:23000/live/nard01/01nard/28906.ts
+#EXTINF:-1,[ AL ] RTV Islam
+http://lucky.lts1.net:23000/live/nard01/01nard/28905.ts
+#EXTINF:-1,[ AL ] RTV Sharri
+http://lucky.lts1.net:23000/live/nard01/01nard/28904.ts
+#EXTINF:-1,[ AL ] Rtv Zeri i Kosoves
+http://lucky.lts1.net:23000/live/nard01/01nard/28903.ts
+#EXTINF:-1,[ AL ] Scan TV
+http://lucky.lts1.net:23000/live/nard01/01nard/28902.ts
+#EXTINF:-1,[ AL ] ShqipTv Aksion
+http://lucky.lts1.net:23000/live/nard01/01nard/28901.ts
+#EXTINF:-1,[ AL ] ShqipTV Cinema
+http://lucky.lts1.net:23000/live/nard01/01nard/28900.ts
+#EXTINF:-1,[ AL ] ShqipTV Film HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28899.ts
+#EXTINF:-1,[ AL ] ShqipTv Horror HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28898.ts
+#EXTINF:-1,[ AL ] ShqipTv Humor HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28897.ts
+#EXTINF:-1,[ AL ] ShqipTv Islam
+http://lucky.lts1.net:23000/live/nard01/01nard/28896.ts
+#EXTINF:-1,[ AL ] ShqipTv Komedi HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28895.ts
+#EXTINF:-1,[ AL ] ShqipTV MIMI
+http://lucky.lts1.net:23000/live/nard01/01nard/28894.ts
+#EXTINF:-1,[ AL ] ShqipTV Tom & Jerry
+http://lucky.lts1.net:23000/live/nard01/01nard/28893.ts
+#EXTINF:-1,[ AL ] ShqipTv Western HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28892.ts
+#EXTINF:-1,[ AL ] Sky 7 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28891.ts
+#EXTINF:-1,[ AL ] Sky Aksion
+http://lucky.lts1.net:23000/live/nard01/01nard/28890.ts
+#EXTINF:-1,[ AL ] Sky Dramë
+http://lucky.lts1.net:23000/live/nard01/01nard/28889.ts
+#EXTINF:-1,[ AL ] Sky Histori
+http://lucky.lts1.net:23000/live/nard01/01nard/28888.ts
+#EXTINF:-1,[ AL ] Sky Komedi
+http://lucky.lts1.net:23000/live/nard01/01nard/28887.ts
+#EXTINF:-1,[ AL ] Sky Max
+http://lucky.lts1.net:23000/live/nard01/01nard/28886.ts
+#EXTINF:-1,[ AL ] Sky Music
+http://lucky.lts1.net:23000/live/nard01/01nard/28885.ts
+#EXTINF:-1,[ AL ] Sky Novela
+http://lucky.lts1.net:23000/live/nard01/01nard/28884.ts
+#EXTINF:-1,[ AL ] Sky Planet
+http://lucky.lts1.net:23000/live/nard01/01nard/28883.ts
+#EXTINF:-1,[ AL ] Sky Shkence
+http://lucky.lts1.net:23000/live/nard01/01nard/28882.ts
+#EXTINF:-1,[ AL ] Sky Shqip
+http://lucky.lts1.net:23000/live/nard01/01nard/28881.ts
+#EXTINF:-1,[ AL ] Sky Star HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28880.ts
+#EXTINF:-1,[ AL ] Sofia HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28879.ts
+#EXTINF:-1,[ AL ] Sot 7 Pogradec
+http://lucky.lts1.net:23000/live/nard01/01nard/28878.ts
+#EXTINF:-1,[ AL ] Star  Shkodra
+http://lucky.lts1.net:23000/live/nard01/01nard/28877.ts
+#EXTINF:-1,[ AL ] Star  TV
+http://lucky.lts1.net:23000/live/nard01/01nard/28876.ts
+#EXTINF:-1,[ AL ] Stinet
+http://lucky.lts1.net:23000/live/nard01/01nard/28875.ts
+#EXTINF:-1,[ AL ] Stupcat Egjelli 24/7
+http://lucky.lts1.net:23000/live/nard01/01nard/28874.ts
+#EXTINF:-1,[ AL ] STV Folk
+http://lucky.lts1.net:23000/live/nard01/01nard/28873.ts
+#EXTINF:-1,[ AL ] Super Sport 1 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28872.ts
+#EXTINF:-1,[ AL ] Super Sport 1 SD
+http://lucky.lts1.net:23000/live/nard01/01nard/28871.ts
+#EXTINF:-1,[ AL ] Super Sport 2 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28870.ts
+#EXTINF:-1,[ AL ] Super Sport 2 SD
+http://lucky.lts1.net:23000/live/nard01/01nard/28869.ts
+#EXTINF:-1,[ AL ] Super Sport 3 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28868.ts
+#EXTINF:-1,[ AL ] Super Sport 3 SD
+http://lucky.lts1.net:23000/live/nard01/01nard/28867.ts
+#EXTINF:-1,[ AL ] Super Sport 4 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28866.ts
+#EXTINF:-1,[ AL ] Super Sport 4 SD
+http://lucky.lts1.net:23000/live/nard01/01nard/28865.ts
+#EXTINF:-1,[ AL ] Super Sport 5 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28864.ts
+#EXTINF:-1,[ AL ] Super Sport 6 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28863.ts
+#EXTINF:-1,[ AL ] Super Sport 7 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28862.ts
+#EXTINF:-1,[ AL ] Super Sport Kosova 1 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28861.ts
+#EXTINF:-1,[ AL ] Super Sport Kosova 1 SD
+http://lucky.lts1.net:23000/live/nard01/01nard/28860.ts
+#EXTINF:-1,[ AL ] Super Sport Kosova 2 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28859.ts
+#EXTINF:-1,[ AL ] Super Sport Kosova 2 SD
+http://lucky.lts1.net:23000/live/nard01/01nard/28858.ts
+#EXTINF:-1,[ AL ] Super Sport Kosova 3 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28857.ts
+#EXTINF:-1,[ AL ] Supersonic TV
+http://lucky.lts1.net:23000/live/nard01/01nard/28856.ts
+#EXTINF:-1,[ AL ] Supersport 1 (backup)
+http://lucky.lts1.net:23000/live/nard01/01nard/28855.ts
+#EXTINF:-1,[ AL ] Supersport 2 (backup)
+http://lucky.lts1.net:23000/live/nard01/01nard/28854.ts
+#EXTINF:-1,[ AL ] Supersport 3 (backup)
+http://lucky.lts1.net:23000/live/nard01/01nard/28853.ts
+#EXTINF:-1,[ AL ] Supersport 4 (backup)
+http://lucky.lts1.net:23000/live/nard01/01nard/28852.ts
+#EXTINF:-1,[ AL ] T digitalb
+http://lucky.lts1.net:23000/live/nard01/01nard/28851.ts
+#EXTINF:-1,[ AL ] T HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28850.ts
+#EXTINF:-1,[ AL ] T SD
+http://lucky.lts1.net:23000/live/nard01/01nard/28849.ts
+#EXTINF:-1,[ AL ] TELESPORT
+http://lucky.lts1.net:23000/live/nard01/01nard/28848.ts
+#EXTINF:-1,[ AL ] Tema TV
+http://lucky.lts1.net:23000/live/nard01/01nard/28847.ts
+#EXTINF:-1,[ AL ] TETOVA Muzike
+http://lucky.lts1.net:23000/live/nard01/01nard/28846.ts
+#EXTINF:-1,[ AL ] TINY POP
+http://lucky.lts1.net:23000/live/nard01/01nard/28845.ts
+#EXTINF:-1,[ AL ] Tip TV
+http://lucky.lts1.net:23000/live/nard01/01nard/28844.ts
+#EXTINF:-1,[ AL ] Tirana TV
+http://lucky.lts1.net:23000/live/nard01/01nard/28843.ts
+#EXTINF:-1,[ AL ] TOP ALBANIA RADIO
+http://lucky.lts1.net:23000/live/nard01/01nard/28842.ts
+#EXTINF:-1,[ AL ] TOP Channel
+http://lucky.lts1.net:23000/live/nard01/01nard/28841.ts
+#EXTINF:-1,[ AL ] TOP Channel HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28840.ts
+#EXTINF:-1,[ AL ] Top Estrada TV HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28839.ts
+#EXTINF:-1,[ AL ] Top Gold Radio 100.8 FM Tirana
+http://lucky.lts1.net:23000/live/nard01/01nard/28838.ts
+#EXTINF:-1,[ AL ] Top News
+http://lucky.lts1.net:23000/live/nard01/01nard/28837.ts
+#EXTINF:-1,[ AL ] Trace Urban HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28836.ts
+#EXTINF:-1,[ AL ] Travel Channel
+http://lucky.lts1.net:23000/live/nard01/01nard/28835.ts
+#EXTINF:-1,[ AL ] Tribuna Channel
+http://lucky.lts1.net:23000/live/nard01/01nard/28834.ts
+#EXTINF:-1,[ AL ] Tring 3
+http://lucky.lts1.net:23000/live/nard01/01nard/28833.ts
+#EXTINF:-1,[ AL ] Tring Action
+http://lucky.lts1.net:23000/live/nard01/01nard/28832.ts
+#EXTINF:-1,[ AL ] Tring Fantasy
+http://lucky.lts1.net:23000/live/nard01/01nard/28831.ts
+#EXTINF:-1,[ AL ] Tring Festa
+http://lucky.lts1.net:23000/live/nard01/01nard/28830.ts
+#EXTINF:-1,[ AL ] Tring History
+http://lucky.lts1.net:23000/live/nard01/01nard/28829.ts
+#EXTINF:-1,[ AL ] Tring Kids
+http://lucky.lts1.net:23000/live/nard01/01nard/28828.ts
+#EXTINF:-1,[ AL ] Tring Life
+http://lucky.lts1.net:23000/live/nard01/01nard/28827.ts
+#EXTINF:-1,[ AL ] Tring Muse
+http://lucky.lts1.net:23000/live/nard01/01nard/28826.ts
+#EXTINF:-1,[ AL ] Tring Planet
+http://lucky.lts1.net:23000/live/nard01/01nard/28825.ts
+#EXTINF:-1,[ AL ] Tring Shqip
+http://lucky.lts1.net:23000/live/nard01/01nard/28824.ts
+#EXTINF:-1,[ AL ] Tring Smile
+http://lucky.lts1.net:23000/live/nard01/01nard/28823.ts
+#EXTINF:-1,[ AL ] Tring Sport 1 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28822.ts
+#EXTINF:-1,[ AL ] Tring Sport 1 SD
+http://lucky.lts1.net:23000/live/nard01/01nard/28821.ts
+#EXTINF:-1,[ AL ] Tring Sport 2 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28820.ts
+#EXTINF:-1,[ AL ] Tring Sport 2 SD
+http://lucky.lts1.net:23000/live/nard01/01nard/28819.ts
+#EXTINF:-1,[ AL ] Tring Sport 3 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28818.ts
+#EXTINF:-1,[ AL ] Tring Sport 3 SD
+http://lucky.lts1.net:23000/live/nard01/01nard/28817.ts
+#EXTINF:-1,[ AL ] Tring Sport 4 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28816.ts
+#EXTINF:-1,[ AL ] Tring Sport 4 SD
+http://lucky.lts1.net:23000/live/nard01/01nard/28815.ts
+#EXTINF:-1,[ AL ] Tring Sport News HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28814.ts
+#EXTINF:-1,[ AL ] Tring Super
+http://lucky.lts1.net:23000/live/nard01/01nard/28813.ts
+#EXTINF:-1,[ AL ] Tring Tring
+http://lucky.lts1.net:23000/live/nard01/01nard/28812.ts
+#EXTINF:-1,[ AL ] Tring World
+http://lucky.lts1.net:23000/live/nard01/01nard/28811.ts
+#EXTINF:-1,[ AL ] TURBO CHANNEL
+http://lucky.lts1.net:23000/live/nard01/01nard/28810.ts
+#EXTINF:-1,[ AL ] TV 1 Channel Shkodër
+http://lucky.lts1.net:23000/live/nard01/01nard/28809.ts
+#EXTINF:-1,[ AL ] TV 2 Gostivar
+http://lucky.lts1.net:23000/live/nard01/01nard/28808.ts
+#EXTINF:-1,[ AL ] TV Art Tetove
+http://lucky.lts1.net:23000/live/nard01/01nard/28807.ts
+#EXTINF:-1,[ AL ] TV Diaspora
+http://lucky.lts1.net:23000/live/nard01/01nard/28806.ts
+#EXTINF:-1,[ AL ] TV DIELLI
+http://lucky.lts1.net:23000/live/nard01/01nard/28805.ts
+#EXTINF:-1,[ AL ] TV DRINI
+http://lucky.lts1.net:23000/live/nard01/01nard/28804.ts
+#EXTINF:-1,[ AL ] TV Dukagjini HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28803.ts
+#EXTINF:-1,[ AL ] TV Koha
+http://lucky.lts1.net:23000/live/nard01/01nard/28802.ts
+#EXTINF:-1,[ AL ] TV KONTAKT
+http://lucky.lts1.net:23000/live/nard01/01nard/28801.ts
+#EXTINF:-1,[ AL ] TV KORÇA
+http://lucky.lts1.net:23000/live/nard01/01nard/28800.ts
+#EXTINF:-1,[ AL ] TV Llapi
+http://lucky.lts1.net:23000/live/nard01/01nard/28799.ts
+#EXTINF:-1,[ AL ] TV Mitrovica
+http://lucky.lts1.net:23000/live/nard01/01nard/28798.ts
+#EXTINF:-1,[ AL ] TV OPINION
+http://lucky.lts1.net:23000/live/nard01/01nard/28797.ts
+#EXTINF:-1,[ AL ] TV Opoja
+http://lucky.lts1.net:23000/live/nard01/01nard/28796.ts
+#EXTINF:-1,[ AL ] TV R
+http://lucky.lts1.net:23000/live/nard01/01nard/28795.ts
+#EXTINF:-1,[ AL ] TV Rozafa
+http://lucky.lts1.net:23000/live/nard01/01nard/28794.ts
+#EXTINF:-1,[ AL ] TV Shenja
+http://lucky.lts1.net:23000/live/nard01/01nard/28793.ts
+#EXTINF:-1,[ AL ] TV Shenja.
+http://lucky.lts1.net:23000/live/nard01/01nard/28792.ts
+#EXTINF:-1,[ AL ] TV Syri Vision
+http://lucky.lts1.net:23000/live/nard01/01nard/28791.ts
+#EXTINF:-1,[ AL ] TV Tetova
+http://lucky.lts1.net:23000/live/nard01/01nard/28790.ts
+#EXTINF:-1,[ AL ] Uskana Tv
+http://lucky.lts1.net:23000/live/nard01/01nard/28789.ts
+#EXTINF:-1,[ AL ] Vali Tv
+http://lucky.lts1.net:23000/live/nard01/01nard/28788.ts
+#EXTINF:-1,[ AL ] VH1 Classic
+http://lucky.lts1.net:23000/live/nard01/01nard/28787.ts
+#EXTINF:-1,[ AL ] VH1 Europe
+http://lucky.lts1.net:23000/live/nard01/01nard/28786.ts
+#EXTINF:-1,[ AL ] Viasat Explorer
+http://lucky.lts1.net:23000/live/nard01/01nard/28785.ts
+#EXTINF:-1,[ AL ] Viasat Nature HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28784.ts
+#EXTINF:-1,[ AL ] Vizion Plus HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28783.ts
+#EXTINF:-1,[ AL ] Vizion Plus Toksor
+http://lucky.lts1.net:23000/live/nard01/01nard/28782.ts
+#EXTINF:-1,[ AL ] Woody Woodpecker
+http://lucky.lts1.net:23000/live/nard01/01nard/28781.ts
+#EXTINF:-1,[ AL ] X Action HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28780.ts
+#EXTINF:-1,[ AL ] X Çifteli HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28779.ts
+#EXTINF:-1,[ AL ] X Comedy HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28778.ts
+#EXTINF:-1,[ AL ] X Dark HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28777.ts
+#EXTINF:-1,[ AL ] X Drama HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28776.ts
+#EXTINF:-1,[ AL ] X Family HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28775.ts
+#EXTINF:-1,[ AL ] X Humor HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28774.ts
+#EXTINF:-1,[ AL ] X KIDS
+http://lucky.lts1.net:23000/live/nard01/01nard/28773.ts
+#EXTINF:-1,[ AL ] X Music Hits HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28772.ts
+#EXTINF:-1,[ AL ] X Popullore HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28771.ts
+#EXTINF:-1,[ AL ] X Premium 1 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28770.ts
+#EXTINF:-1,[ AL ] X Premium 2 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28769.ts
+#EXTINF:-1,[ AL ] X Premium 3 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28768.ts
+#EXTINF:-1,[ AL ] X Romancë HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28767.ts
+#EXTINF:-1,[ AL ] X Scyfy HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28766.ts
+#EXTINF:-1,[ AL ] X Thriller HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28765.ts
+#EXTINF:-1,[ AL ] X Western HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28764.ts
+#EXTINF:-1,[ AL ] ZERI I MITROVICES
+http://lucky.lts1.net:23000/live/nard01/01nard/28763.ts
+#EXTINF:-1,[ AL ] ZICO TV
+http://lucky.lts1.net:23000/live/nard01/01nard/28762.ts
+#EXTINF:-1,[ AL ] Zjarr TV
+http://lucky.lts1.net:23000/live/nard01/01nard/28761.ts
+#EXTINF:-1,[ AL ]Alsat M Usa Time
+http://lucky.lts1.net:23000/live/nard01/01nard/28760.ts
+#EXTINF:-1,[ AL ]Burimi TV
+http://lucky.lts1.net:23000/live/nard01/01nard/28758.ts
+#EXTINF:-1,[ AL ]Camel TV
+http://lucky.lts1.net:23000/live/nard01/01nard/28757.ts
+#EXTINF:-1,[ AL ]Filma24 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28756.ts
+#EXTINF:-1,[ AL ]Lugina Popullore
+http://lucky.lts1.net:23000/live/nard01/01nard/28755.ts
+#EXTINF:-1,[ AL ]Radio Vicianum
+http://lucky.lts1.net:23000/live/nard01/01nard/28754.ts
+#EXTINF:-1,[ AL ]REAL RTV
+http://lucky.lts1.net:23000/live/nard01/01nard/28753.ts
+#EXTINF:-1,[ AL ]RTV BUJANOVC
+http://lucky.lts1.net:23000/live/nard01/01nard/28752.ts
+#EXTINF:-1,[ AL ]RTV ILIRIA HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28751.ts
+#EXTINF:-1,[ AL ]RTV PRESHEVA
+http://lucky.lts1.net:23000/live/nard01/01nard/28750.ts
+#EXTINF:-1,[ AL ]ShqipTv Fantasy HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28749.ts
+#EXTINF:-1,[ AL ]SHQIPTV Hindi HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28748.ts
+#EXTINF:-1,[ AL ]ShqipTV Jeta HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28747.ts
+#EXTINF:-1,[ AL ]Syri Blue HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28746.ts
+#EXTINF:-1,[ AL ]TV Kopliku HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28745.ts
+#EXTINF:-1,[ AL ]Zana Islam HD
+http://lucky.lts1.net:23000/live/nard01/01nard/28744.ts
+
+#EXTINF:-1,--->[ EX-YU ]<---
+http://lucky.lts1.net:23000/live/nard01/01nard/29484.ts
+#EXTINF:-1,[ EX-YU ] 24 KITCHEN
+http://lucky.lts1.net:23000/live/nard01/01nard/29739.ts
+#EXTINF:-1,[ EX-YU ] 24 Vesti (local)
+http://lucky.lts1.net:23000/live/nard01/01nard/29738.ts
+#EXTINF:-1,[ EX-YU ] A TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29737.ts
+#EXTINF:-1,[ EX-YU ] A1 Balcan
+http://lucky.lts1.net:23000/live/nard01/01nard/29736.ts
+#EXTINF:-1,[ EX-YU ] A1 BALKAN.
+http://lucky.lts1.net:23000/live/nard01/01nard/29735.ts
+#EXTINF:-1,[ EX-YU ] A1 Exlusive
+http://lucky.lts1.net:23000/live/nard01/01nard/29734.ts
+#EXTINF:-1,[ EX-YU ] A1 ISLAM
+http://lucky.lts1.net:23000/live/nard01/01nard/29733.ts
+#EXTINF:-1,[ EX-YU ] AL JAZEERA
+http://lucky.lts1.net:23000/live/nard01/01nard/29732.ts
+#EXTINF:-1,[ EX-YU ] Al Jazeera Balkan
+http://lucky.lts1.net:23000/live/nard01/01nard/29731.ts
+#EXTINF:-1,[ EX-YU ] Alfa (local)
+http://lucky.lts1.net:23000/live/nard01/01nard/29730.ts
+#EXTINF:-1,[ EX-YU ] ANIMAL PLANET
+http://lucky.lts1.net:23000/live/nard01/01nard/29729.ts
+#EXTINF:-1,[ EX-YU ] Arena Sport 1 HR
+http://lucky.lts1.net:23000/live/nard01/01nard/29728.ts
+#EXTINF:-1,[ EX-YU ] Arena Sport 1 SRB
+http://lucky.lts1.net:23000/live/nard01/01nard/29727.ts
+#EXTINF:-1,[ EX-YU ] Arena Sport 2 HR
+http://lucky.lts1.net:23000/live/nard01/01nard/29726.ts
+#EXTINF:-1,[ EX-YU ] Arena Sport 2 SRB
+http://lucky.lts1.net:23000/live/nard01/01nard/29725.ts
+#EXTINF:-1,[ EX-YU ] Arena Sport 3 HR
+http://lucky.lts1.net:23000/live/nard01/01nard/29724.ts
+#EXTINF:-1,[ EX-YU ] Arena Sport 3 SRB
+http://lucky.lts1.net:23000/live/nard01/01nard/29723.ts
+#EXTINF:-1,[ EX-YU ] Arena Sport 4 HR
+http://lucky.lts1.net:23000/live/nard01/01nard/29722.ts
+#EXTINF:-1,[ EX-YU ] Arena Sport 4 SRB
+http://lucky.lts1.net:23000/live/nard01/01nard/29721.ts
+#EXTINF:-1,[ EX-YU ] Arena Sport 5 HR
+http://lucky.lts1.net:23000/live/nard01/01nard/29720.ts
+#EXTINF:-1,[ EX-YU ] Arena Sport 5 SRB
+http://lucky.lts1.net:23000/live/nard01/01nard/29719.ts
+#EXTINF:-1,[ EX-YU ] AXN Adria
+http://lucky.lts1.net:23000/live/nard01/01nard/29718.ts
+#EXTINF:-1,[ EX-YU ] B 92
+http://lucky.lts1.net:23000/live/nard01/01nard/29717.ts
+#EXTINF:-1,[ EX-YU ] B92
+http://lucky.lts1.net:23000/live/nard01/01nard/29716.ts
+#EXTINF:-1,[ EX-YU ] B92 (local)
+http://lucky.lts1.net:23000/live/nard01/01nard/29715.ts
+#EXTINF:-1,[ EX-YU ] Belle Amie
+http://lucky.lts1.net:23000/live/nard01/01nard/29714.ts
+#EXTINF:-1,[ EX-YU ] BHT
+http://lucky.lts1.net:23000/live/nard01/01nard/29713.ts
+#EXTINF:-1,[ EX-YU ] BHT 1
+http://lucky.lts1.net:23000/live/nard01/01nard/29712.ts
+#EXTINF:-1,[ EX-YU ] BN
+http://lucky.lts1.net:23000/live/nard01/01nard/29711.ts
+#EXTINF:-1,[ EX-YU ] BN Music
+http://lucky.lts1.net:23000/live/nard01/01nard/29710.ts
+#EXTINF:-1,[ EX-YU ] Bosna Music
+http://lucky.lts1.net:23000/live/nard01/01nard/29709.ts
+#EXTINF:-1,[ EX-YU ] Bosna TV 1
+http://lucky.lts1.net:23000/live/nard01/01nard/29708.ts
+#EXTINF:-1,[ EX-YU ] Cinemax HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29707.ts
+#EXTINF:-1,[ EX-YU ] CINEMAX-1
+http://lucky.lts1.net:23000/live/nard01/01nard/29706.ts
+#EXTINF:-1,[ EX-YU ] CINEMAX-2
+http://lucky.lts1.net:23000/live/nard01/01nard/29705.ts
+#EXTINF:-1,[ EX-YU ] Cinestar Action
+http://lucky.lts1.net:23000/live/nard01/01nard/29704.ts
+#EXTINF:-1,[ EX-YU ] Cinestar Fantasy HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29703.ts
+#EXTINF:-1,[ EX-YU ] Cinestar Premier 1
+http://lucky.lts1.net:23000/live/nard01/01nard/29702.ts
+#EXTINF:-1,[ EX-YU ] Cinestar Premier 2
+http://lucky.lts1.net:23000/live/nard01/01nard/29701.ts
+#EXTINF:-1,[ EX-YU ] Cinestar Premiere 1
+http://lucky.lts1.net:23000/live/nard01/01nard/29700.ts
+#EXTINF:-1,[ EX-YU ] Cinestar Premiere 2
+http://lucky.lts1.net:23000/live/nard01/01nard/29699.ts
+#EXTINF:-1,[ EX-YU ] CINESTAR TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29698.ts
+#EXTINF:-1,[ EX-YU ] CMC
+http://lucky.lts1.net:23000/live/nard01/01nard/29697.ts
+#EXTINF:-1,[ EX-YU ] Comedy Central
+http://lucky.lts1.net:23000/live/nard01/01nard/29696.ts
+#EXTINF:-1,[ EX-YU ] Crime & Investigation
+http://lucky.lts1.net:23000/live/nard01/01nard/29695.ts
+#EXTINF:-1,[ EX-YU ] Da Vinci Learning
+http://lucky.lts1.net:23000/live/nard01/01nard/29694.ts
+#EXTINF:-1,[ EX-YU ] Discovery Serbia
+http://lucky.lts1.net:23000/live/nard01/01nard/29693.ts
+#EXTINF:-1,[ EX-YU ] DM Sat
+http://lucky.lts1.net:23000/live/nard01/01nard/29692.ts
+#EXTINF:-1,[ EX-YU ] Docubox
+http://lucky.lts1.net:23000/live/nard01/01nard/29691.ts
+#EXTINF:-1,[ EX-YU ] Doma TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29690.ts
+#EXTINF:-1,[ EX-YU ] DOMA-TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29689.ts
+#EXTINF:-1,[ EX-YU ] DUGA TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29688.ts
+#EXTINF:-1,[ EX-YU ] E!
+http://lucky.lts1.net:23000/live/nard01/01nard/29687.ts
+#EXTINF:-1,[ EX-YU ] ERA TV MK
+http://lucky.lts1.net:23000/live/nard01/01nard/29686.ts
+#EXTINF:-1,[ EX-YU ] Eurosport 1
+http://lucky.lts1.net:23000/live/nard01/01nard/29685.ts
+#EXTINF:-1,[ EX-YU ] Eurosport 2
+http://lucky.lts1.net:23000/live/nard01/01nard/29684.ts
+#EXTINF:-1,[ EX-YU ] FACE TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29683.ts
+#EXTINF:-1,[ EX-YU ] Federalna TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29682.ts
+#EXTINF:-1,[ EX-YU ] Fightbox
+http://lucky.lts1.net:23000/live/nard01/01nard/29681.ts
+#EXTINF:-1,[ EX-YU ] FILMBOX
+http://lucky.lts1.net:23000/live/nard01/01nard/29680.ts
+#EXTINF:-1,[ EX-YU ] FilmBox Extra
+http://lucky.lts1.net:23000/live/nard01/01nard/29679.ts
+#EXTINF:-1,[ EX-YU ] FOX
+http://lucky.lts1.net:23000/live/nard01/01nard/29678.ts
+#EXTINF:-1,[ EX-YU ] Fox Crime
+http://lucky.lts1.net:23000/live/nard01/01nard/29677.ts
+#EXTINF:-1,[ EX-YU ] Fox Life
+http://lucky.lts1.net:23000/live/nard01/01nard/29676.ts
+#EXTINF:-1,[ EX-YU ] Fox Movies
+http://lucky.lts1.net:23000/live/nard01/01nard/29675.ts
+#EXTINF:-1,[ EX-YU ] GRAND 2 TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29674.ts
+#EXTINF:-1,[ EX-YU ] Grand TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29673.ts
+#EXTINF:-1,[ EX-YU ] Happy
+http://lucky.lts1.net:23000/live/nard01/01nard/29672.ts
+#EXTINF:-1,[ EX-YU ] Happy (local)
+http://lucky.lts1.net:23000/live/nard01/01nard/29671.ts
+#EXTINF:-1,[ EX-YU ] Happy Parovi 24/7
+http://lucky.lts1.net:23000/live/nard01/01nard/29670.ts
+#EXTINF:-1,[ EX-YU ] Hayat Folk
+http://lucky.lts1.net:23000/live/nard01/01nard/29669.ts
+#EXTINF:-1,[ EX-YU ] Hayat HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29668.ts
+#EXTINF:-1,[ EX-YU ] HAYAT MUSIC
+http://lucky.lts1.net:23000/live/nard01/01nard/29667.ts
+#EXTINF:-1,[ EX-YU ] HAYAT PLUS
+http://lucky.lts1.net:23000/live/nard01/01nard/29666.ts
+#EXTINF:-1,[ EX-YU ] Hayatovci
+http://lucky.lts1.net:23000/live/nard01/01nard/29665.ts
+#EXTINF:-1,[ EX-YU ] HBO 2
+http://lucky.lts1.net:23000/live/nard01/01nard/29664.ts
+#EXTINF:-1,[ EX-YU ] HBO 2 SLO
+http://lucky.lts1.net:23000/live/nard01/01nard/29663.ts
+#EXTINF:-1,[ EX-YU ] HBO 3
+http://lucky.lts1.net:23000/live/nard01/01nard/29662.ts
+#EXTINF:-1,[ EX-YU ] HBO ADRIA
+http://lucky.lts1.net:23000/live/nard01/01nard/29661.ts
+#EXTINF:-1,[ EX-YU ] HBO Comedy
+http://lucky.lts1.net:23000/live/nard01/01nard/29660.ts
+#EXTINF:-1,[ EX-YU ] HBO HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29659.ts
+#EXTINF:-1,[ EX-YU ] HBO HD 2
+http://lucky.lts1.net:23000/live/nard01/01nard/29658.ts
+#EXTINF:-1,[ EX-YU ] History 2
+http://lucky.lts1.net:23000/live/nard01/01nard/29657.ts
+#EXTINF:-1,[ EX-YU ] HISTORY CHANNEL
+http://lucky.lts1.net:23000/live/nard01/01nard/29656.ts
+#EXTINF:-1,[ EX-YU ] HNTV
+http://lucky.lts1.net:23000/live/nard01/01nard/29655.ts
+#EXTINF:-1,[ EX-YU ] HRAM Ortodox
+http://lucky.lts1.net:23000/live/nard01/01nard/29654.ts
+#EXTINF:-1,[ EX-YU ] HRT 1
+http://lucky.lts1.net:23000/live/nard01/01nard/29653.ts
+#EXTINF:-1,[ EX-YU ] HRT 2
+http://lucky.lts1.net:23000/live/nard01/01nard/29652.ts
+#EXTINF:-1,[ EX-YU ] HRT 3
+http://lucky.lts1.net:23000/live/nard01/01nard/29651.ts
+#EXTINF:-1,[ EX-YU ] HRT 4
+http://lucky.lts1.net:23000/live/nard01/01nard/29650.ts
+#EXTINF:-1,[ EX-YU ] ID Discovery
+http://lucky.lts1.net:23000/live/nard01/01nard/29649.ts
+#EXTINF:-1,[ EX-YU ] Islam Channel
+http://lucky.lts1.net:23000/live/nard01/01nard/29648.ts
+#EXTINF:-1,[ EX-YU ] Istok TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29647.ts
+#EXTINF:-1,[ EX-YU ] Izvorna TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29646.ts
+#EXTINF:-1,[ EX-YU ] Jugoton TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29645.ts
+#EXTINF:-1,[ EX-YU ] Kanal 5 (local) MK
+http://lucky.lts1.net:23000/live/nard01/01nard/29644.ts
+#EXTINF:-1,[ EX-YU ] KANAL 5 Plus MK
+http://lucky.lts1.net:23000/live/nard01/01nard/29643.ts
+#EXTINF:-1,[ EX-YU ] KCN 1
+http://lucky.lts1.net:23000/live/nard01/01nard/29642.ts
+#EXTINF:-1,[ EX-YU ] KCN 2
+http://lucky.lts1.net:23000/live/nard01/01nard/29641.ts
+#EXTINF:-1,[ EX-YU ] KCN 3
+http://lucky.lts1.net:23000/live/nard01/01nard/29640.ts
+#EXTINF:-1,[ EX-YU ] Kladovo
+http://lucky.lts1.net:23000/live/nard01/01nard/29639.ts
+#EXTINF:-1,[ EX-YU ] KLASIK TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29638.ts
+#EXTINF:-1,[ EX-YU ] KSPORT NOVI FILM 1
+http://lucky.lts1.net:23000/live/nard01/01nard/29637.ts
+#EXTINF:-1,[ EX-YU ] LOV I RIBOLOV
+http://lucky.lts1.net:23000/live/nard01/01nard/29636.ts
+#EXTINF:-1,[ EX-YU ] MGM
+http://lucky.lts1.net:23000/live/nard01/01nard/29635.ts
+#EXTINF:-1,[ EX-YU ] Mim TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29634.ts
+#EXTINF:-1,[ EX-YU ] Mini TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29633.ts
+#EXTINF:-1,[ EX-YU ] Mini TV HR
+http://lucky.lts1.net:23000/live/nard01/01nard/29632.ts
+#EXTINF:-1,[ EX-YU ] Mini Ultra TV (Kids)
+http://lucky.lts1.net:23000/live/nard01/01nard/29631.ts
+#EXTINF:-1,[ EX-YU ] Minimax
+http://lucky.lts1.net:23000/live/nard01/01nard/29630.ts
+#EXTINF:-1,[ EX-YU ] MRT 1 (local)
+http://lucky.lts1.net:23000/live/nard01/01nard/29629.ts
+#EXTINF:-1,[ EX-YU ] MRTV 3 MK
+http://lucky.lts1.net:23000/live/nard01/01nard/29628.ts
+#EXTINF:-1,[ EX-YU ] MTV Igman
+http://lucky.lts1.net:23000/live/nard01/01nard/29627.ts
+#EXTINF:-1,[ EX-YU ] N1
+http://lucky.lts1.net:23000/live/nard01/01nard/29626.ts
+#EXTINF:-1,[ EX-YU ] Nat Geo Wild
+http://lucky.lts1.net:23000/live/nard01/01nard/29625.ts
+#EXTINF:-1,[ EX-YU ] National Geographic
+http://lucky.lts1.net:23000/live/nard01/01nard/29624.ts
+#EXTINF:-1,[ EX-YU ] Nickelodeon
+http://lucky.lts1.net:23000/live/nard01/01nard/29623.ts
+#EXTINF:-1,[ EX-YU ] NICKELODEON (HR)
+http://lucky.lts1.net:23000/live/nard01/01nard/29622.ts
+#EXTINF:-1,[ EX-YU ] Nova HR
+http://lucky.lts1.net:23000/live/nard01/01nard/29621.ts
+#EXTINF:-1,[ EX-YU ] Nova RS
+http://lucky.lts1.net:23000/live/nard01/01nard/29620.ts
+#EXTINF:-1,[ EX-YU ] NOVA TV HR
+http://lucky.lts1.net:23000/live/nard01/01nard/29619.ts
+#EXTINF:-1,[ EX-YU ] OBN
+http://lucky.lts1.net:23000/live/nard01/01nard/29618.ts
+#EXTINF:-1,[ EX-YU ] ORLANDO KIDS
+http://lucky.lts1.net:23000/live/nard01/01nard/29617.ts
+#EXTINF:-1,[ EX-YU ] Otv Valentino
+http://lucky.lts1.net:23000/live/nard01/01nard/29616.ts
+#EXTINF:-1,[ EX-YU ] Partizan HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29615.ts
+#EXTINF:-1,[ EX-YU ] Pink
+http://lucky.lts1.net:23000/live/nard01/01nard/29614.ts
+#EXTINF:-1,[ EX-YU ] Pink & Roll
+http://lucky.lts1.net:23000/live/nard01/01nard/29613.ts
+#EXTINF:-1,[ EX-YU ] PINK 1
+http://lucky.lts1.net:23000/live/nard01/01nard/29612.ts
+#EXTINF:-1,[ EX-YU ] PINK 1 (EST-USA-TIME) -6HR
+http://lucky.lts1.net:23000/live/nard01/01nard/29611.ts
+#EXTINF:-1,[ EX-YU ] PINK 1 (reserve)
+http://lucky.lts1.net:23000/live/nard01/01nard/29610.ts
+#EXTINF:-1,[ EX-YU ] PINK 3
+http://lucky.lts1.net:23000/live/nard01/01nard/29609.ts
+#EXTINF:-1,[ EX-YU ] PINK 3.
+http://lucky.lts1.net:23000/live/nard01/01nard/29608.ts
+#EXTINF:-1,[ EX-YU ] Pink Action
+http://lucky.lts1.net:23000/live/nard01/01nard/29607.ts
+#EXTINF:-1,[ EX-YU ] Pink BH
+http://lucky.lts1.net:23000/live/nard01/01nard/29606.ts
+#EXTINF:-1,[ EX-YU ] Pink Comedy
+http://lucky.lts1.net:23000/live/nard01/01nard/29605.ts
+#EXTINF:-1,[ EX-YU ] Pink Crime & Mystery
+http://lucky.lts1.net:23000/live/nard01/01nard/29604.ts
+#EXTINF:-1,[ EX-YU ] Pink Crime&Mystery
+http://lucky.lts1.net:23000/live/nard01/01nard/29603.ts
+#EXTINF:-1,[ EX-YU ] Pink Extra
+http://lucky.lts1.net:23000/live/nard01/01nard/29602.ts
+#EXTINF:-1,[ EX-YU ] Pink Film
+http://lucky.lts1.net:23000/live/nard01/01nard/29601.ts
+#EXTINF:-1,[ EX-YU ] Pink Folk
+http://lucky.lts1.net:23000/live/nard01/01nard/29600.ts
+#EXTINF:-1,[ EX-YU ] Pink Folk 2
+http://lucky.lts1.net:23000/live/nard01/01nard/29599.ts
+#EXTINF:-1,[ EX-YU ] Pink Hits 2
+http://lucky.lts1.net:23000/live/nard01/01nard/29598.ts
+#EXTINF:-1,[ EX-YU ] Pink Horror
+http://lucky.lts1.net:23000/live/nard01/01nard/29597.ts
+#EXTINF:-1,[ EX-YU ] Pink Kids
+http://lucky.lts1.net:23000/live/nard01/01nard/29596.ts
+#EXTINF:-1,[ EX-YU ] Pink Koncert
+http://lucky.lts1.net:23000/live/nard01/01nard/29595.ts
+#EXTINF:-1,[ EX-YU ] Pink Kuvar
+http://lucky.lts1.net:23000/live/nard01/01nard/29594.ts
+#EXTINF:-1,[ EX-YU ] Pink M
+http://lucky.lts1.net:23000/live/nard01/01nard/29593.ts
+#EXTINF:-1,[ EX-YU ] Pink Movies
+http://lucky.lts1.net:23000/live/nard01/01nard/29592.ts
+#EXTINF:-1,[ EX-YU ] Pink Music
+http://lucky.lts1.net:23000/live/nard01/01nard/29591.ts
+#EXTINF:-1,[ EX-YU ] Pink Music 2
+http://lucky.lts1.net:23000/live/nard01/01nard/29590.ts
+#EXTINF:-1,[ EX-YU ] Pink Pedia
+http://lucky.lts1.net:23000/live/nard01/01nard/29589.ts
+#EXTINF:-1,[ EX-YU ] Pink Plus
+http://lucky.lts1.net:23000/live/nard01/01nard/29588.ts
+#EXTINF:-1,[ EX-YU ] Pink Plus TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29587.ts
+#EXTINF:-1,[ EX-YU ] Pink Premium
+http://lucky.lts1.net:23000/live/nard01/01nard/29586.ts
+#EXTINF:-1,[ EX-YU ] Pink Reality
+http://lucky.lts1.net:23000/live/nard01/01nard/29585.ts
+#EXTINF:-1,[ EX-YU ] Pink Romance
+http://lucky.lts1.net:23000/live/nard01/01nard/29584.ts
+#EXTINF:-1,[ EX-YU ] Pink Sci-Fi & Fantasy
+http://lucky.lts1.net:23000/live/nard01/01nard/29583.ts
+#EXTINF:-1,[ EX-YU ] Pink Sci-Fi&Fantasy
+http://lucky.lts1.net:23000/live/nard01/01nard/29582.ts
+#EXTINF:-1,[ EX-YU ] Pink Serije
+http://lucky.lts1.net:23000/live/nard01/01nard/29581.ts
+#EXTINF:-1,[ EX-YU ] Pink Show
+http://lucky.lts1.net:23000/live/nard01/01nard/29580.ts
+#EXTINF:-1,[ EX-YU ] Pink Soap
+http://lucky.lts1.net:23000/live/nard01/01nard/29579.ts
+#EXTINF:-1,[ EX-YU ] Pink Super Kids
+http://lucky.lts1.net:23000/live/nard01/01nard/29578.ts
+#EXTINF:-1,[ EX-YU ] Pink Thriller
+http://lucky.lts1.net:23000/live/nard01/01nard/29577.ts
+#EXTINF:-1,[ EX-YU ] Pink Western
+http://lucky.lts1.net:23000/live/nard01/01nard/29576.ts
+#EXTINF:-1,[ EX-YU ] Pink World
+http://lucky.lts1.net:23000/live/nard01/01nard/29575.ts
+#EXTINF:-1,[ EX-YU ] Pink Zabava
+http://lucky.lts1.net:23000/live/nard01/01nard/29574.ts
+#EXTINF:-1,[ EX-YU ] PINK2
+http://lucky.lts1.net:23000/live/nard01/01nard/29573.ts
+#EXTINF:-1,[ EX-YU ] PINK2.
+http://lucky.lts1.net:23000/live/nard01/01nard/29572.ts
+#EXTINF:-1,[ EX-YU ] Planet Tv
+http://lucky.lts1.net:23000/live/nard01/01nard/29571.ts
+#EXTINF:-1,[ EX-YU ] Pop Brio
+http://lucky.lts1.net:23000/live/nard01/01nard/29570.ts
+#EXTINF:-1,[ EX-YU ] Pop Oto
+http://lucky.lts1.net:23000/live/nard01/01nard/29569.ts
+#EXTINF:-1,[ EX-YU ] Posavina TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29568.ts
+#EXTINF:-1,[ EX-YU ] Prva
+http://lucky.lts1.net:23000/live/nard01/01nard/29567.ts
+#EXTINF:-1,[ EX-YU ] Prva (local)
+http://lucky.lts1.net:23000/live/nard01/01nard/29566.ts
+#EXTINF:-1,[ EX-YU ] Prva hercegovacka
+http://lucky.lts1.net:23000/live/nard01/01nard/29565.ts
+#EXTINF:-1,[ EX-YU ] Prva Plus
+http://lucky.lts1.net:23000/live/nard01/01nard/29564.ts
+#EXTINF:-1,[ EX-YU ] PRVA TV (EST-USA-TIME) -6HR
+http://lucky.lts1.net:23000/live/nard01/01nard/29563.ts
+#EXTINF:-1,[ EX-YU ] Prva World TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29562.ts
+#EXTINF:-1,[ EX-YU ] PTC Catelit
+http://lucky.lts1.net:23000/live/nard01/01nard/29561.ts
+#EXTINF:-1,[ EX-YU ] PTPC Plus
+http://lucky.lts1.net:23000/live/nard01/01nard/29560.ts
+#EXTINF:-1,[ EX-YU ] Roma Tv
+http://lucky.lts1.net:23000/live/nard01/01nard/29559.ts
+#EXTINF:-1,[ EX-YU ] RT Vojvodina 1
+http://lucky.lts1.net:23000/live/nard01/01nard/29558.ts
+#EXTINF:-1,[ EX-YU ] RT Vojvodina 1 (local)
+http://lucky.lts1.net:23000/live/nard01/01nard/29557.ts
+#EXTINF:-1,[ EX-YU ] RT Vojvodina 2
+http://lucky.lts1.net:23000/live/nard01/01nard/29556.ts
+#EXTINF:-1,[ EX-YU ] RTCG (EST-USA-TIME) -6HR
+http://lucky.lts1.net:23000/live/nard01/01nard/29555.ts
+#EXTINF:-1,[ EX-YU ] RTCG 1
+http://lucky.lts1.net:23000/live/nard01/01nard/29554.ts
+#EXTINF:-1,[ EX-YU ] RTCG 2
+http://lucky.lts1.net:23000/live/nard01/01nard/29553.ts
+#EXTINF:-1,[ EX-YU ] RTCG SAT
+http://lucky.lts1.net:23000/live/nard01/01nard/29552.ts
+#EXTINF:-1,[ EX-YU ] RTL
+http://lucky.lts1.net:23000/live/nard01/01nard/29551.ts
+#EXTINF:-1,[ EX-YU ] RTL 2
+http://lucky.lts1.net:23000/live/nard01/01nard/29550.ts
+#EXTINF:-1,[ EX-YU ] RTL CRIME
+http://lucky.lts1.net:23000/live/nard01/01nard/29549.ts
+#EXTINF:-1,[ EX-YU ] RTL HR
+http://lucky.lts1.net:23000/live/nard01/01nard/29548.ts
+#EXTINF:-1,[ EX-YU ] RTL KOCKICA
+http://lucky.lts1.net:23000/live/nard01/01nard/29547.ts
+#EXTINF:-1,[ EX-YU ] RTL Living
+http://lucky.lts1.net:23000/live/nard01/01nard/29546.ts
+#EXTINF:-1,[ EX-YU ] RTRS
+http://lucky.lts1.net:23000/live/nard01/01nard/29545.ts
+#EXTINF:-1,[ EX-YU ] RTS 1
+http://lucky.lts1.net:23000/live/nard01/01nard/29544.ts
+#EXTINF:-1,[ EX-YU ] RTS 1 (EST-USA-TIME) -6HR
+http://lucky.lts1.net:23000/live/nard01/01nard/29543.ts
+#EXTINF:-1,[ EX-YU ] RTS 1 (local)
+http://lucky.lts1.net:23000/live/nard01/01nard/29542.ts
+#EXTINF:-1,[ EX-YU ] RTS 2
+http://lucky.lts1.net:23000/live/nard01/01nard/29541.ts
+#EXTINF:-1,[ EX-YU ] RTS 2 (local)
+http://lucky.lts1.net:23000/live/nard01/01nard/29540.ts
+#EXTINF:-1,[ EX-YU ] RTS 3
+http://lucky.lts1.net:23000/live/nard01/01nard/29539.ts
+#EXTINF:-1,[ EX-YU ] RTS HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29538.ts
+#EXTINF:-1,[ EX-YU ] RTV Novi Pazar
+http://lucky.lts1.net:23000/live/nard01/01nard/29537.ts
+#EXTINF:-1,[ EX-YU ] RTV USK
+http://lucky.lts1.net:23000/live/nard01/01nard/29536.ts
+#EXTINF:-1,[ EX-YU ] RTV Zenica
+http://lucky.lts1.net:23000/live/nard01/01nard/29535.ts
+#EXTINF:-1,[ EX-YU ] Sandzak TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29534.ts
+#EXTINF:-1,[ EX-YU ] Shutel TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29533.ts
+#EXTINF:-1,[ EX-YU ] Sitel (local)
+http://lucky.lts1.net:23000/live/nard01/01nard/29532.ts
+#EXTINF:-1,[ EX-YU ] SITEL 3 (local)
+http://lucky.lts1.net:23000/live/nard01/01nard/29531.ts
+#EXTINF:-1,[ EX-YU ] Slovenia TV 1 HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29530.ts
+#EXTINF:-1,[ EX-YU ] Sobraniski Kanal (local)
+http://lucky.lts1.net:23000/live/nard01/01nard/29529.ts
+#EXTINF:-1,[ EX-YU ] SOS (local)
+http://lucky.lts1.net:23000/live/nard01/01nard/29528.ts
+#EXTINF:-1,[ EX-YU ] SPORT KLUB 1
+http://lucky.lts1.net:23000/live/nard01/01nard/29527.ts
+#EXTINF:-1,[ EX-YU ] Sport Klub 1 HR
+http://lucky.lts1.net:23000/live/nard01/01nard/29526.ts
+#EXTINF:-1,[ EX-YU ] SPORT KLUB 2
+http://lucky.lts1.net:23000/live/nard01/01nard/29525.ts
+#EXTINF:-1,[ EX-YU ] Sport Klub 2 HR
+http://lucky.lts1.net:23000/live/nard01/01nard/29524.ts
+#EXTINF:-1,[ EX-YU ] SPORT KLUB 3
+http://lucky.lts1.net:23000/live/nard01/01nard/29523.ts
+#EXTINF:-1,[ EX-YU ] Sport Klub 3 HR
+http://lucky.lts1.net:23000/live/nard01/01nard/29522.ts
+#EXTINF:-1,[ EX-YU ] SPORT KLUB 4
+http://lucky.lts1.net:23000/live/nard01/01nard/29521.ts
+#EXTINF:-1,[ EX-YU ] SPORT KLUB 5
+http://lucky.lts1.net:23000/live/nard01/01nard/29520.ts
+#EXTINF:-1,[ EX-YU ] SPORT KLUB 6
+http://lucky.lts1.net:23000/live/nard01/01nard/29519.ts
+#EXTINF:-1,[ EX-YU ] Sport Klub Channel
+http://lucky.lts1.net:23000/live/nard01/01nard/29518.ts
+#EXTINF:-1,[ EX-YU ] Sport Klub GOLF
+http://lucky.lts1.net:23000/live/nard01/01nard/29517.ts
+#EXTINF:-1,[ EX-YU ] SPORT TV 1 HD SLO
+http://lucky.lts1.net:23000/live/nard01/01nard/29516.ts
+#EXTINF:-1,[ EX-YU ] SPORT TV 2 HD SLO
+http://lucky.lts1.net:23000/live/nard01/01nard/29515.ts
+#EXTINF:-1,[ EX-YU ] SPORT TV 3 HD SLO
+http://lucky.lts1.net:23000/live/nard01/01nard/29514.ts
+#EXTINF:-1,[ EX-YU ] SPORTKLUB 1 HD SLO
+http://lucky.lts1.net:23000/live/nard01/01nard/29513.ts
+#EXTINF:-1,[ EX-YU ] SPORTKLUB 2 HD SLO
+http://lucky.lts1.net:23000/live/nard01/01nard/29512.ts
+#EXTINF:-1,[ EX-YU ] SPORTKLUB 3 HD SLO
+http://lucky.lts1.net:23000/live/nard01/01nard/29511.ts
+#EXTINF:-1,[ EX-YU ] Studentska TV
+http://lucky.lts1.net:23000/live/nard01/01nard/29510.ts
+#EXTINF:-1,[ EX-YU ] Studio B
+http://lucky.lts1.net:23000/live/nard01/01nard/29509.ts
+#EXTINF:-1,[ EX-YU ] Taraf Tv
+http://lucky.lts1.net:23000/live/nard01/01nard/29508.ts
+#EXTINF:-1,[ EX-YU ] Telma (local)
+http://lucky.lts1.net:23000/live/nard01/01nard/29507.ts
+#EXTINF:-1,[ EX-YU ] TK Tuzla
+http://lucky.lts1.net:23000/live/nard01/01nard/29506.ts
+#EXTINF:-1,[ EX-YU ] TLC (local)
+http://lucky.lts1.net:23000/live/nard01/01nard/29505.ts
+#EXTINF:-1,[ EX-YU ] Top Music Serbia
+http://lucky.lts1.net:23000/live/nard01/01nard/29504.ts
+#EXTINF:-1,[ EX-YU ] TOP Sound
+http://lucky.lts1.net:23000/live/nard01/01nard/29503.ts
+#EXTINF:-1,[ EX-YU ] TV 1
+http://lucky.lts1.net:23000/live/nard01/01nard/29502.ts
+#EXTINF:-1,[ EX-YU ] TV 1000
+http://lucky.lts1.net:23000/live/nard01/01nard/29501.ts
+#EXTINF:-1,[ EX-YU ] TV 3 SLO
+http://lucky.lts1.net:23000/live/nard01/01nard/29500.ts
+#EXTINF:-1,[ EX-YU ] TV 5
+http://lucky.lts1.net:23000/live/nard01/01nard/29499.ts
+#EXTINF:-1,[ EX-YU ] TV 5 HD ISLAM
+http://lucky.lts1.net:23000/live/nard01/01nard/29498.ts
+#EXTINF:-1,[ EX-YU ] TV Banovina
+http://lucky.lts1.net:23000/live/nard01/01nard/29497.ts
+#EXTINF:-1,[ EX-YU ] TV Glas Drine
+http://lucky.lts1.net:23000/live/nard01/01nard/29496.ts
+#EXTINF:-1,[ EX-YU ] TV Hram
+http://lucky.lts1.net:23000/live/nard01/01nard/29495.ts
+#EXTINF:-1,[ EX-YU ] TV Nasha  (local)
+http://lucky.lts1.net:23000/live/nard01/01nard/29494.ts
+#EXTINF:-1,[ EX-YU ] TV Nova MK
+http://lucky.lts1.net:23000/live/nard01/01nard/29493.ts
+#EXTINF:-1,[ EX-YU ] TV Palma Plus Jagodina
+http://lucky.lts1.net:23000/live/nard01/01nard/29492.ts
+#EXTINF:-1,[ EX-YU ] Tv S Sarajevo
+http://lucky.lts1.net:23000/live/nard01/01nard/29491.ts
+#EXTINF:-1,[ EX-YU ] TV Sehara
+http://lucky.lts1.net:23000/live/nard01/01nard/29490.ts
+#EXTINF:-1,[ EX-YU ] Tv5
+http://lucky.lts1.net:23000/live/nard01/01nard/29489.ts
+#EXTINF:-1,[ EX-YU ] TVSA Sarajevo
+http://lucky.lts1.net:23000/live/nard01/01nard/29488.ts
+#EXTINF:-1,[ EX-YU ] Viasat nature
+http://lucky.lts1.net:23000/live/nard01/01nard/29487.ts
+#EXTINF:-1,[ EX-YU ] VIP- HD
+http://lucky.lts1.net:23000/live/nard01/01nard/29486.ts
+#EXTINF:-1,[ EX-YU ] Z1
+http://lucky.lts1.net:23000/live/nard01/01nard/29485.ts
